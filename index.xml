@@ -12,7 +12,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/janowski/</guid>
-      <description>Associate Professor at Boise State, Micron School of Materials Science and Engineering Website: https://www.boisestate.edu/coen-cmelab/</description>
+      <description>Associate Professor Boise State University Micron School of Materials Science and Engineering Website: https://www.boisestate.edu/coen-cmelab/</description>
+    </item>
+    
+    <item>
+      <title>Jindal Shah</title>
+      <link>/people/shah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/shah/</guid>
+      <description>Associate Professor Oklahoma State University School of Chemical Engineering Website: https://ceat.okstate.edu/che/faculty-staff/jindal-shah.html</description>
     </item>
     
     <item>
@@ -21,7 +30,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/shirts/</guid>
-      <description>Professor at the University of Colorado Boulder, Department of Chemical and Biological Engineering Website: https://www.colorado.edu/lab/shirtsgroup/</description>
+      <description>Professor University of Colorado Boulder Department of Chemical and Biological Engineering Website: https://www.colorado.edu/lab/shirtsgroup/</description>
+    </item>
+    
+    <item>
+      <title>Neeraj Rai</title>
+      <link>/people/rai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/rai/</guid>
+      <description>Associate Professor Mississippi State University Swalm School of Chemical Engineering Website: https://railab.che.msstate.edu/</description>
+    </item>
+    
+    <item>
+      <title>Sapna Sarupria</title>
+      <link>/people/sarupria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/sarupria/</guid>
+      <description>Associate Professor University of Minnesota Department of Chemistry Website: http://molecularsimulations.sites.clemson.edu/research.html</description>
     </item>
     
   </channel>
