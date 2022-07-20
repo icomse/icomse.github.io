@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advisory Board on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V3/categories/advisory-board/</link>
+    <description>Recent content in Advisory Board on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V3/categories/advisory-board/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J. Ilja Siepmann</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/team/j.-ilja-siepmann/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/team/j.-ilja-siepmann/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>J. Ilja Siepmann</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/workshops/j.-ilja-siepmann/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/workshops/j.-ilja-siepmann/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
+    </item>
+    
+  </channel>
+</rss>

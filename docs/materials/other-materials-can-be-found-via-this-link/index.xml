@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other materials can be found via this link: on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V3/materials/other-materials-can-be-found-via-this-link/</link>
+    <description>Recent content in Other materials can be found via this link: on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hvanleeuwen.github.io/icomse-V3/materials/other-materials-can-be-found-via-this-link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/resources/</guid>
+      <description>Some title The following tutorials, videos, and educational materials have been developed by or are recommended by the i-CoMSE community, formatted as follows:
+Energy drift in molecular dynamics Description: Despite being the central tenant of the NVE ensemble, numerical errors compound in molecular dynamics simulations. This tutorial provides interactive examples and after completing exercises learners be able to measure and manage energy drift in their own work.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V2/</link>
+    <description>Recent content in Home on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Apr 2022 21:33:53 +0200</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Molecular Dynamics/Monte Carlo Summer School will be held at Oklahoma State University July 10-15, 2022</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/news/molecular-dynamicsmonte-carlo-summer-school-will-be-held-at-oklahoma-state-university-july-10-15-2022/</link>
+      <pubDate>Tue, 19 Apr 2022 21:33:53 +0200</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/news/molecular-dynamicsmonte-carlo-summer-school-will-be-held-at-oklahoma-state-university-july-10-15-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications are open for DFT for Catalysis Summer School</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/post/chapter-2/</link>
+      <pubDate>Tue, 13 Jul 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/post/chapter-2/</guid>
+      <description>Note: Applications have now closed. Applications are now open for the DFT for Catalysis Summer school at Mississippi State University! Density Functional Theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Applications are open for MD/MC Summer School</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/post/chapter-1/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/post/chapter-1/</guid>
+      <description>Applications are now open for the MD/MC Summer school at Oklahoma State University! Classical molecular dynamics and molecular modeling are essential modeling tools for materials including proteins, polymers, and ionic liquids, in applications ranging from pharmaceutical development to materials science. This course will present a theoretical and practical introduction to classical statistical mechanics and molecular modeling on high-performance computers. The open source software GROMACS and LAMMPS will be used for hands-on tutorial sessions.</description>
+    </item>
+    
+    <item>
+      <title>National Science Foundation awards funding to establish Institute of Computational Molecular Science Education (October 2021)</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/post/chapter-3/</link>
+      <pubDate>Tue, 22 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/post/chapter-3/</guid>
+      <description>A new NSF grant has helped to establish the Institute for Computational Molecular Science Education, which will help train the next generation of molecular scientists and engineers in the computational techniques such as molecular dynamics, Monte Carlo methods, data science and machine learning that are defining the future of the field.
+“Having the discipline-specific knowledge is important, but everything is pointing toward a future where being able to work with data, algorithms and artificial intelligence is going to be highly valued,” Rai said.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 1</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-1/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-1/</guid>
+      <description>(Past Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-2/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-2/</guid>
+      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-3/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-3/</guid>
+      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 4</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-4/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-4/</guid>
+      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 5</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-5/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-5/</guid>
+      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 6</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-6/</guid>
+      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 7</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-7/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-7/</guid>
+      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 8</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-8/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-8/</guid>
+      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 9</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-9/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/autumn-school-9/</guid>
+      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Eric Jankowski</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/eric-jankowski/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/eric-jankowski/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>J. Ilja Siepmann</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/j.-ilja-siepmann/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/j.-ilja-siepmann/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>J. Ilja Siepmann</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/j.-ilja-siepmann/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/j.-ilja-siepmann/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
+    </item>
+    
+    <item>
+      <title>Jindal Shah</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/jindal-shah/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/jindal-shah/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>Michael Janik</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/michael-janik/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/michael-janik/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>Michael Shirts</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/michael-shirts/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/michael-shirts/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>Neeraj Rai</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/neeraj-rai/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/neeraj-rai/</guid>
+      <description>Dr. Rai is the contact PI for the NSF grant funding i-CoMSE, and the main manager of the DFT educational efforts.</description>
+    </item>
+    
+    <item>
+      <title>Neeraj Rai</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/neeraj-rai/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/neeraj-rai/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
+    </item>
+    
+    <item>
+      <title>Neeraj Rai 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/workshops/neeraj-rai-2/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/workshops/neeraj-rai-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
+    </item>
+    
+    <item>
+      <title>Richard Mohn</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/richard-mohn/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/richard-mohn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>Sapna Sarupria</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/sapna-sarupria/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/sapna-sarupria/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>Tamar Burrell</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/team/tamar-burrell/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/team/tamar-burrell/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.</description>
+    </item>
+    
+    <item>
+      <title>DFT for Catalysis Summer School will be held at Mississippi State University</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/news/dft-for-catalysis-summer-school-will-be-held-at-mississippi-state-university/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/news/dft-for-catalysis-summer-school-will-be-held-at-mississippi-state-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/about/</guid>
+      <description>i-CoMSE is focused on serving the needs of the community engaged in fundamental research in computational molecular science and engineering (CMSE) by:
+ Providing an ecosystem for nurturing and training the next generation of computational molecular scientists and engineers. Increasing availability and accessibility of well-curated education materials and content in computational molecular modeling, and content, both through workshops and online resources. Serving as a node for engagement with the relevant stakeholders and promoting fundamental research in CMSE.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/classical-molecular-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/classical-molecular-simulation/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/classical-molecular-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/classical-molecular-simulation/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/classical-molecular-simulation-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/classical-molecular-simulation-2/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/classical-molecular-simulation-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/classical-molecular-simulation-2/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/classical-molecular-simulation-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/classical-molecular-simulation-3/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/classical-molecular-simulation-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/classical-molecular-simulation-3/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Announcements</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/announcements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChemCompute</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/software-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/software-resources/</guid>
+      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+    </item>
+    
+    <item>
+      <title>ChemCompute</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/software-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/software-resources/</guid>
+      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+    </item>
+    
+    <item>
+      <title>ChemCompute 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/software-resources-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/software-resources-2/</guid>
+      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+    </item>
+    
+    <item>
+      <title>ChemCompute 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/software-resources-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/software-resources-2/</guid>
+      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+    </item>
+    
+    <item>
+      <title>ChemCompute 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/software-resources-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/software-resources-3/</guid>
+      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+    </item>
+    
+    <item>
+      <title>ChemCompute 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/software-resources-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/software-resources-3/</guid>
+      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+    </item>
+    
+    <item>
+      <title>Legal disclaimer</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/legal/</guid>
+      <description>Some legal information.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-2/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-2/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 2b</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-3/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-3/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 4</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-4/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/resources/</guid>
+      <description>Some title The following tutorials, videos, and educational materials have been developed by or are recommended by the i-CoMSE community, formatted as follows:
+Energy drift in molecular dynamics Description: Despite being the central tenant of the NVE ensemble, numerical errors compound in molecular dynamics simulations. This tutorial provides interactive examples and after completing exercises learners be able to measure and manage energy drift in their own work.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classical Molecular Simulation on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V3/categories/classical-molecular-simulation/</link>
+    <description>Recent content in Classical Molecular Simulation on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hvanleeuwen.github.io/icomse-V3/categories/classical-molecular-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alchemistry.org</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/other-materials/classical-molecular-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/other-materials/classical-molecular-simulation/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/our-materials/classical-molecular-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/our-materials/classical-molecular-simulation/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/other-materials/classical-molecular-simulation-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/other-materials/classical-molecular-simulation-2/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/our-materials/classical-molecular-simulation-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/our-materials/classical-molecular-simulation-2/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/other-materials/classical-molecular-simulation-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/other-materials/classical-molecular-simulation-3/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Alchemistry.org 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/our-materials/classical-molecular-simulation-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/our-materials/classical-molecular-simulation-3/</guid>
+      <description>A link of resources for the best practices in performing alchemical molecular simulations.</description>
+    </item>
+    
+  </channel>
+</rss>

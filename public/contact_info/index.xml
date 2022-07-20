@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact_info on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V2/contact_info/</link>
+    <description>Recent content in Contact_info on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V2/contact_info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>neerajrai@che.msstate.edu</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/contact_info/neerajraiche.msstate.edu/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/contact_info/neerajraiche.msstate.edu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>siepmann@umn.edu</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/contact_info/siepmannumn.edu/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/contact_info/siepmannumn.edu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unknown</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/contact_info/unknown/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/contact_info/unknown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

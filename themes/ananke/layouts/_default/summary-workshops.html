@@ -1,0 +1,15 @@
+<div class="relative w-100 nested-copy-line-height">
+  <div class="bg-white pa4 gray overflow-hidden">
+    <span class="f6 db">{{- .Date.Format (default "January 2, 2006" .Site.Params.date_format) -}}</span>
+    <h1 class="f3 near-black">
+      <a target="blank" href="{{ .Params.link | safeHTML }}" class="link black dim">
+        {{ .Title }}
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      {{ .Summary }}
+	   <a target="blank" href="{{ .Params.link | safeHTML }}">{{ .Params.link | safeHTML }}</a>
+      
+    </div>
+  </div>
+</div>

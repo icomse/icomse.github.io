@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>20 july 2022 on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V2/when/20-july-2022/</link>
+    <description>Recent content in 20 july 2022 on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jul 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V2/when/20-july-2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applications are open for DFT for Catalysis Summer School</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/post/chapter-2/</link>
+      <pubDate>Tue, 13 Jul 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/post/chapter-2/</guid>
+      <description>Note: Applications have now closed. Applications are now open for the DFT for Catalysis Summer school at Mississippi State University! Density Functional Theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+  </channel>
+</rss>

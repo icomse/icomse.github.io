@@ -1,0 +1,90 @@
+<div class="supported">
+	<span class="w-70-ns center">
+	i-CoMSE is supported by the National Science Foundation under grant No. OAC 2118204, 2118217, 2200907, 2118180, and 2118174. Any opinions, findings, and conclusions or recommendations expressed on this website are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+	</span>
+</div>
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+ICoMSE - 2022
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+$( document ).ready(function() {
+	$( ".future-workshops-button" ).on( "click", function() {
+	  	$(".post-overview").removeClass('display-none');		
+	  	$(".past-workshops-posts").addClass('display-none');
+	  	$(".active-workshops-posts").addClass('display-none');	
+	  	$(".future-workshops-posts").removeClass('display-none');	  		  	  	
+	  	$(".future-workshops-posts").addClass('display-flex');
+	  	$(".workshops-button").removeClass('active-button');	  	
+	  	$(".future-workshops-button").addClass('active-button');	  
+	});
+	$( ".past-workshops-button" ).on( "click", function() {
+	  	$(".post-overview").removeClass('display-none');		
+	  	$(".future-workshops-posts").addClass('display-none');
+	  	$(".active-workshops-posts").addClass('display-none');	
+	  	$(".past-workshops-posts").removeClass('display-none');	  		  	  	
+	  	$(".past-workshops-posts").addClass('display-flex');	 
+	  	$(".past-workshops-button").addClass('active-button');	
+	  	$(".workshops-button").removeClass('active-button');	  	
+	  	$(".past-workshops-button").addClass('active-button');	  		  	 	
+	});	
+	$( ".active-workshops-button" ).on( "click", function() {
+	  	$(".post-overview").removeClass('display-none');		
+	  	$(".future-workshops-posts").addClass('display-none');
+	  	$(".past-workshops-posts").addClass('display-none');	
+	  	$(".active-workshops-posts").removeClass('display-none');	  		  	  	
+	  	$(".active-workshops-posts").addClass('display-flex');	 
+	  	$(".workshops-button").removeClass('active-button');	  	
+	  	$(".active-workshops-button").addClass('active-button');	  	 	
+	});	
+	
+	$( ".contributing-button" ).on( "click", function() {
+	  	$(".resources-posts").removeClass('display-inline');	
+	  	$(".resources-posts").addClass('display-none');		
+	  	$(".contributing-posts").removeClass('display-none');		  		  		  	  	
+	  	$(".contributing-posts").addClass('display-inline');
+	  	$(".resources-button").removeClass('active-button');	  	
+	  	$(".contributing-button").addClass('active-button');	  
+	});
+	$( ".other-materials-button" ).on( "click", function() {
+	  	$(".resources-posts").removeClass('display-inline');	
+	  	$(".resources-posts").addClass('display-none');	
+	  	$(".other-materials-posts").removeClass('display-none');	  		  		  	  		  		  		  	  	
+	  	$(".other-materials-posts").addClass('display-inline');
+	  	$(".resources-button").removeClass('active-button');	  	
+	  	$(".other-materials-button").addClass('active-button');	  
+	});	
+	$( ".our-materials-button" ).on( "click", function() {
+	  	$(".resources-posts").removeClass('display-inline');	
+	  	$(".resources-posts").addClass('display-none');	
+	  	$(".our-materials-posts").removeClass('display-none');	  				  		  	  	
+	  	$(".our-materials-posts").addClass('display-inline');
+	  	$(".resources-button").removeClass('active-button');	  	
+	  	$(".our-materials-button").addClass('active-button');	  
+	});		
+		
+	$( ".workshops-readmore" ).on( "click", function() {
+		$(this).parent(".workshops-summary").removeClass('display-inline');
+		$(this).parent(".workshops-summary").addClass('display-none');
+		$(this).parent().next(".workshops-content").removeClass('display-none');
+		$(this).parent().next(".workshops-content").addClass('display-inline');
+	})	
+	$( ".workshops-readless" ).on( "click", function() {
+		$(this).parent().prev(".workshops-summary").removeClass('display-none');
+		$(this).parent().prev(".workshops-summary").addClass('display-inline');		
+		$(this).parent(".workshops-content").removeClass('display-inline');
+		$(this).parent(".workshops-content").addClass('display-none');
+	})	
+	$( ".workshops-button" ).on( "click", function() {	
+			$('iframe').attr('src', $('iframe').attr('src'));		
+	console.log('workshops-button');
+	})	
+	console.log('ready');
+});	    	    
+	</script>
+    
+  </div>
+</footer>

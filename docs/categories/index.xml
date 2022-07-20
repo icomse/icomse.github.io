@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V3/categories/</link>
+    <description>Recent content in Categories on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V3/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>active-workshops</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/active-workshops/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/active-workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advisory Board</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/advisory-board/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/advisory-board/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive Committee</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/executive-committee/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/executive-committee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>future-workshops</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/future-workshops/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/future-workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructors</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/instructors/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/instructors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>past-workshops</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/past-workshops/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/past-workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical Molecular Simulation</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/classical-molecular-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/classical-molecular-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Chemistry</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/quantum-chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/quantum-chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Resources</title>
+      <link>https://hvanleeuwen.github.io/icomse-V3/categories/software-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V3/categories/software-resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

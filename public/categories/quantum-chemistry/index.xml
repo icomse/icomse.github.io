@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Chemistry on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V2/categories/quantum-chemistry/</link>
+    <description>Recent content in Quantum Chemistry on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hvanleeuwen.github.io/icomse-V2/categories/quantum-chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psi4 Education</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-2/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-2/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 2b</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/other-materials/quantum-chemistry-3/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-3/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+    <item>
+      <title>Psi4 Education 4</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-4/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
+  </channel>
+</rss>
