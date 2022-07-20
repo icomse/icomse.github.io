@@ -9,7 +9,7 @@ padding:2%;
 .supported {
 background: rgb(235,235,235);
 background: linear-gradient(180deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 33%);
-color:#1b6485;
+color:#144d92;
 padding:2%;
 }
 .supported span {
@@ -73,7 +73,7 @@ padding:2%;
 }
 
 .darkblue {
-color: #1b6485;	
+color: #144d92;	
 }
 
 .bg-white {
@@ -234,7 +234,7 @@ display: flex;
  flex-basis: 33%;
 }
 .site-header {
-	min-height:450px;
+	height:450px;
 }
 .active-button {
 	font-weight: bold;
@@ -318,7 +318,7 @@ padding:2rem 0 2rem 0;
 .w-70-ns {
 		width:100%;
 		margin: 0 auto;
-		width:85%;
+		max-width:1500px;		
 }
 .pb7 {
 	padding-bottom:0;
@@ -328,6 +328,10 @@ padding:2rem 0 2rem 0;
 }
 .bg-top {
     background-position: center;	
+}
+.pv6 {
+	padding:0;
+	height:400px;
 }
 @media only screen 
 and (min-device-width : 320px) 
