@@ -1,15 +1,14 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_image: "avatars.jpg"
+featured_image: "Jankowski_head.png"
 title: "Eric Jankowski"
-universities: "Mississippi State University"
+universities: "Boise State University"
 roles: "Executive Committee"
 categories: [ "Executive Committee" ]
-contact_info: Unknown
+contact_info: eric@i-comse.org
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros.
-
+Prof. Jankowski helps with pedagogy, curriculum design, and materials accessibility. He likes bicycles, polymers, and go.
 
 
 
