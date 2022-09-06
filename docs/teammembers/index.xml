@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teammembers on I-CoMSE</title>
-    <link>https://hvanleeuwen.github.io/icomse-V4/teammembers/</link>
+    <link>https://icomse.github.io/webtesticomse.github.io/teammembers/</link>
     <description>Recent content in Teammembers on I-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hvanleeuwen.github.io/icomse-V4/teammembers/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://icomse.github.io/webtesticomse.github.io/teammembers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

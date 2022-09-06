@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Names on I-CoMSE</title>
-    <link>https://hvanleeuwen.github.io/icomse-V4/names/</link>
+    <link>https://icomse.github.io/webtesticomse.github.io/names/</link>
     <description>Recent content in Names on I-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hvanleeuwen.github.io/icomse-V4/names/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://icomse.github.io/webtesticomse.github.io/names/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

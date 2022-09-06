@@ -2,27 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advisory Board on I-CoMSE</title>
-    <link>https://hvanleeuwen.github.io/icomse-V4/roles/advisory-board/</link>
+    <link>https://icomse.github.io/webtesticomse.github.io/roles/advisory-board/</link>
     <description>Recent content in Advisory Board on I-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V4/roles/advisory-board/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/webtesticomse.github.io/roles/advisory-board/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carla Reynolds</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/carla-reynolds/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/carla-reynolds/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/carla-reynolds/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/carla-reynolds/</guid>
       <description>Associate Technical Fellow
 Boeing</description>
     </item>
     
     <item>
-      <title>Edward J. Maginn</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/edward-j.-maginn/</link>
+      <title>David A. Kofke</title>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/david-a.-kofke/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/edward-j.-maginn/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/david-a.-kofke/</guid>
+      <description>Walter E. Schmid Chair
+SUNY Distinguished Professor
+Department of Chemical and Biological Engineering</description>
+    </item>
+    
+    <item>
+      <title>Edward J. Maginn</title>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/edward-j.-maginn/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/edward-j.-maginn/</guid>
       <description>Keough-Hesburgh Professor of Engineering
 Department of Chemical and Biomolecular
 Engineering</description>
@@ -30,30 +41,30 @@ Engineering</description>
     
     <item>
       <title>Glake Hill</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/ignacio-pagonabarraga/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/ignacio-pagonabarraga/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/ignacio-pagonabarraga/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/ignacio-pagonabarraga/</guid>
       <description>Professor
 Department of Chemistry, Physics and Atmospheric Sciences</description>
     </item>
     
     <item>
       <title>Ignacio Pagonabarraga</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/glake-hill/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/glake-hill/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/glake-hill/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/glake-hill/</guid>
       <description>Professor
 Department of Fundamental Physics</description>
     </item>
     
     <item>
       <title>J. Ilja Siepmann</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/j.-ilja-siepmann/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/j.-ilja-siepmann/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/j.-ilja-siepmann/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/j.-ilja-siepmann/</guid>
       <description>Distinguished McKnight University Professor
 Distinguished University Teaching Professor
 Department of Chemistry</description>
@@ -61,10 +72,10 @@ Department of Chemistry</description>
     
     <item>
       <title>Jim Pfaendtner</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/jim-pfaendtner/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/jim-pfaendtner/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/jim-pfaendtner/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/jim-pfaendtner/</guid>
       <description>Steven and Connie Rogel Endowed Professor
 Chemical Engineering Department Chair
 Department of Chemical Engineering</description>
@@ -72,10 +83,10 @@ Department of Chemical Engineering</description>
     
     <item>
       <title>Niri Govind</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/niri-govind/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/niri-govind/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/niri-govind/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/niri-govind/</guid>
       <description>Physicist
 Chemical Physics Theory Team
 Pacific Northwest National Laboratory</description>
@@ -83,10 +94,10 @@ Pacific Northwest National Laboratory</description>
     
     <item>
       <title>Paulette Clancy</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/paulette-clancy/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/paulette-clancy/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/paulette-clancy/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/paulette-clancy/</guid>
       <description>Professor and Department Head
 Department of Chemical and Biomolecular
 Engineering</description>
@@ -94,10 +105,10 @@ Engineering</description>
     
     <item>
       <title>Rebecca Lindsey</title>
-      <link>https://hvanleeuwen.github.io/icomse-V4/team/rebecca-lindsey/</link>
+      <link>https://icomse.github.io/webtesticomse.github.io/team/rebecca-lindsey/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://hvanleeuwen.github.io/icomse-V4/team/rebecca-lindsey/</guid>
+      <guid>https://icomse.github.io/webtesticomse.github.io/team/rebecca-lindsey/</guid>
       <description>Assistant Professor
 Department of Chemical Engineering</description>
     </item>
