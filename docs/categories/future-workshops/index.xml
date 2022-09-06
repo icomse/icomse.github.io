@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>future-workshops on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V4/categories/future-workshops/</link>
+    <description>Recent content in future-workshops on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V4/categories/future-workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autumn school 2</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/workshops/autumn-school-2/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/workshops/autumn-school-2/</guid>
+      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 3</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/workshops/autumn-school-3/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/workshops/autumn-school-3/</guid>
+      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+    <item>
+      <title>Autumn school 4</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/workshops/autumn-school-4/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/workshops/autumn-school-4/</guid>
+      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+    </item>
+    
+  </channel>
+</rss>

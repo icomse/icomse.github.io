@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instructors on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V4/categories/instructors/</link>
+    <description>Recent content in Instructors on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V4/categories/instructors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew J Medford</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/team/andrew-j-medford/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/team/andrew-j-medford/</guid>
+      <description>Assistant Professor
+School of Chemical and Biomolecular Engineering</description>
+    </item>
+    
+    <item>
+      <title>Michael Janik</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/team/michael-janik/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/team/michael-janik/</guid>
+      <description>Professor
+Department of Chemical Engineering</description>
+    </item>
+    
+  </channel>
+</rss>

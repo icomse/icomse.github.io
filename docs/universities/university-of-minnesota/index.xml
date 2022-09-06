@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Minnesota on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V4/universities/university-of-minnesota/</link>
+    <description>Recent content in University of Minnesota on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V4/universities/university-of-minnesota/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J. Ilja Siepmann</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/team/j.-ilja-siepmann/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/team/j.-ilja-siepmann/</guid>
+      <description>Distinguished McKnight University Professor
+Distinguished University Teaching Professor
+Department of Chemistry</description>
+    </item>
+    
+    <item>
+      <title>J. Ilja Siepmann</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/workshops/j.-ilja-siepmann/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/workshops/j.-ilja-siepmann/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
+    </item>
+    
+    <item>
+      <title>Sapna Sarupria</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/team/sapna-sarupria/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/team/sapna-sarupria/</guid>
+      <description>Associate Professor
+Department of Chemistry</description>
+    </item>
+    
+  </channel>
+</rss>

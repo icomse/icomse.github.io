@@ -1,0 +1,165 @@
+{{ define "main" }}
+{{/*
+  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a layouts directory, just for that section.
+   */}}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="testing2 cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{ .Content }} 
+    </section>
+
+<div class="teams-button-overview">    
+   <div class="teams-button active-button executive-committee-button" id="executive-committee">Executive Committee</div> <div class="teams-button project-coordinator-button" id="project-coordinator">Project Coordinator</div> <div class="teams-button external-evaluator-button" id="external-evaluator">External Evaluator</div> <div class="teams-button advisory-board-button" id="advisory-board">Advisory Board</div> <div class="teams-button instructors-button" id="instructors">Instructors</div>  
+</div>
+    
+    <div class="team-wrapper executive-committee">
+    <div class="team-subtitle"><h2>Executive Committee</h2></div>
+    <div class="post-overview team-overview">
+{{ $ev := where site.RegularPages "Type" "team" }}
+{{ $ev = where $ev "Params.categories" "intersect" (slice "Executive Committee") }}
+{{ range first 999 $ev }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} team-post overflow-hidden">
+
+    <div class="team-img">
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    </div>
+    <div class="team-text-70">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>	    
+	    <h4>{{ .Params.universities }}</h4>
+	    <h4>{{ .Params.roles }}</h4>
+<p>{{ .Content }}</p>
+{{if .Params.contact_info }}
+<h4 style="margin:7px 0 0 0">Contact:</h4> <a href="mailto:{{ .Params.contact_info }}" style="margin-top:0">{{ .Params.contact_info }}</a>
+<br/><a href="tel:{{ .Params.ph }}" style="margin-top:0">{{ .Params.ph }}</a>
+{{end}}
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+
+{{end}}
+</div>
+</div>
+
+    <div class="team-wrapper project-coordinator">
+    <div class="team-subtitle"><h2>Project Coordinator</h2></div>
+    <div class="post-overview team-overview">
+{{ $ab := where site.RegularPages "Type" "team" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "Project Coordinator") }}
+{{ range first 999 $ab }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-img">
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    </div>
+    <div class="team-text-70">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <h4>{{ .Params.universities }}</h4>
+	    <h4>{{ .Params.roles }}</h4>
+<p>{{ .Content }}</p>
+{{if .Params.contact_info }}
+<h4 style="margin:7px 0 0 0">Contact:</h4> <a href="mailto:{{ .Params.contact_info }}" style="margin-top:0">{{ .Params.contact_info }}</a>
+<br/><a href="tel:{{ .Params.ph }}" style="margin-top:0">{{ .Params.ph }}</a>
+{{end}}
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+</div>
+
+    <div class="team-wrapper external-evaluator">
+    <div class="team-subtitle"><h2>External Evaluator</h2></div>
+    <div class="post-overview team-overview">
+{{ $ab := where site.RegularPages "Type" "team" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "External Evaluator") }}
+{{ range first 999 $ab }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-img">
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    </div>
+    <div class="team-text-70">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <h4>{{ .Params.universities }}</h4>
+	    <h4>{{ .Params.roles }}</h4>
+<p>{{ .Content }}</p>
+{{if .Params.contact }}
+<h4 style="margin:7px 0 0 0">Contact:</h4> <a href="mailto:{{ .Params.contact }}" style="margin-top:0">{{ .Params.contact_info }}</a>
+<br/><a href="tel:{{ .Params.ph }}" style="margin-top:0">{{ .Params.ph }}</a>
+{{end}}
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+</div>
+
+    <div class="team-wrapper advisory-board">
+    <div class="team-subtitle"><h2>Advisory Board</h2></div>
+    <div class="post-overview team-overview">
+{{ $ab := where site.RegularPages "Type" "team" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "Advisory Board") }}
+{{ range $ab }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-img">
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    </div>
+    <div class="team-text-70">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <h4>{{ .Params.universities }}</h4>
+	    <h4>{{ .Params.roles }}</h4>
+<p>{{ .Content }}</p>
+{{if .Params.contact_info }}
+<h4 style="margin:7px 0 0 0">Contact:</h4> <a href="mailto:{{ .Params.contact_info }}" style="margin-top:0">{{ .Params.contact_info }}</a>
+<br/><a href="tel:{{ .Params.ph }}" style="margin-top:0">{{ .Params.ph }}</a>
+{{end}}
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+</div>
+
+    <div class="team-wrapper instructors">
+    <div class="team-subtitle"><h2>Instructors</h2></div>
+    <div class="post-overview team-overview">
+{{ $is := where site.RegularPages "Type" "team" }}
+{{ $is = where $is "Params.categories" "intersect" (slice "Instructors") }}
+{{ range first 9999 $is }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-img">
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    </div>
+    <div class="team-text-70">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <h4>{{ .Params.universities }}</h4>
+	    <h4>{{ .Params.roles }}</h4>
+<p>{{ .Content }}</p>
+{{if .Params.contact_info }}
+<h4 style="margin:7px 0 0 0">Contact:</h4> <a href="mailto:{{ .Params.contact_info }}" style="margin-top:0">{{ .Params.contact_info }}</a>
+<br/><a href="tel:{{ .Params.ph }}" style="margin-top:0">{{ .Params.ph }}</a>
+{{end}}
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+</div>
+  </article>
+{{ end }}

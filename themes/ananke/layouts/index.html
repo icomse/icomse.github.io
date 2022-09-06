@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="payoff">
+	<span class="w-70-ns center">
+	{{ .Content }}
+	</span>
+</div>
+
+<div class="pa3 pa4-ns w-100 w-70-ns center">
+
+          <h1 class="barlow flex-none darkblue">
+		  <br/>
+            Upcoming Workshops
+          </h1>
+
+	<div class="w-100 center workshop-overview">
+	{{ range (.Site.GetPage "section" "news").Pages }}
+	          <div class="relative w-46 workshop-post workshop-highlights">
+	            {{ .Render "summary-workshops" }}
+	          </div>
+	  {{ end }}
+	</div>
+</div>
+
+<div class="pa3 pa4-ns w-100 w-70-ns center news-overview">
+<h1 class="barlow flex-none darkblue">News</h1>
+{{ range (.Site.GetPage "section" "post").Pages }}
+          <div class="relative w-100 mb4 news-post news-highlights">
+            {{ .Render "summary-with-image" }}
+          </div>
+  {{ end }}  
+      </div>
+  {{ end }}
+  
+  

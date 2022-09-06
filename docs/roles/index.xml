@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roles on I-CoMSE</title>
+    <link>https://hvanleeuwen.github.io/icomse-V4/roles/</link>
+    <description>Recent content in Roles on I-CoMSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://hvanleeuwen.github.io/icomse-V4/roles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advisory Board</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/roles/advisory-board/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/roles/advisory-board/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive Committee</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/roles/executive-committee/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/roles/executive-committee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Evaluator</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/roles/external-evaluator/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/roles/external-evaluator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructor</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/roles/instructor/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/roles/instructor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Coordinator</title>
+      <link>https://hvanleeuwen.github.io/icomse-V4/roles/project-coordinator/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V4/roles/project-coordinator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
