@@ -1,6 +1,5 @@
 ---
 title: "Contributing"
-description: "Contributing"
 background: "false"
 menu: "true"
 ---
