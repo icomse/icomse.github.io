@@ -1,10 +1,10 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_image: "penn-state.jpeg"
-title: "Summer School 1"
+featured_image: "msstate-top.jpg"
+title: "DFT Summer School"
 application_deadline: "2022-6-20"
-decision_on_application: "Unknown"
-location: "Missippi"
+decision_on_application: "Passed"
+location: "Missippi State University"
 registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["past-workshops"]
