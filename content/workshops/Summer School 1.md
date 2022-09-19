@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 featured_image: "penn-state.jpeg"
-title: "Autumn school 1"
+title: "Summer School 1"
 application_deadline: "2022-6-20"
 decision_on_application: "Unknown"
 location: "Missippi"
@@ -19,19 +19,19 @@ Density functional theory (DFT) has become an essential tool for modeling chemic
 
 **Financial Aid:** Financial support is available to cover housing (in university dormitory), meals, and parking cost for all non-local participants. Limited number of travel stipends ($500) are available to help broaden participation.
 
-**Expected number of participants:** 40
+**Expected number of participants:** 40
 
-**Directions to housing:** Lorem ipsum
+**Directions to housing:** N/A
 
-**Where to eat:** Lorem ipsum
+**Where to eat:** N/A
 
 **Equipment Needed:** Students are encouraged to bring their laptop.
 
 **Organizers/Instructors**
-•  Mike Janik, Pennsylvania State University
-•  Eric Jankowski, Boise State University
-•  Andrew J. Medford, Georgia Institute of Technology
-•  Neeraj Rai, Mississippi State University
+  - Mike Janik, Pennsylvania State University
+  - Eric Jankowski, Boise State University
+  - Andrew J. Medford, Georgia Institute of Technology
+  - Neeraj Rai, Mississippi State University
 
 
 **Tentative Schedule**
