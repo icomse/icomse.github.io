@@ -1,6 +1,6 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_map: "https://www.openstreetmap.org/export/embed.html?bbox=-88.90909194946289%2C33.3713949556903%2C-88.67254257202148%2C33.5066198447588&amp;layer=mapnik"
+featured_map: "osu.jpg"
 title: "MDMC Summer School 2022"
 application_deadline: "May 20, 2022"
 decision_on_application: "June 1, 2022"
