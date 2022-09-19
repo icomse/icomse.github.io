@@ -19,7 +19,7 @@ Density functional theory (DFT) has become an essential tool for modeling chemic
 
 **Financial Aid:** Financial support is available to cover housing (in university dormitory), meals, and parking cost for all non-local participants. Limited number of travel stipends ($500) are available to help broaden participation.
 
-**Expected number of participants:** 40
+**Expected number of participants:** 40
 
 **Directions to housing:** Lorem ipsum
 
@@ -35,21 +35,3 @@ Density functional theory (DFT) has become an essential tool for modeling chemic
 
 
 **Tentative Schedule**
-July 12
-Arrival/Check-in
-
-July 13
-Morning: Fundamentals of DFT
-Afternoon: Fundamentals of Catalysis
-Evening: Free
-
-July 14
-Morning: Introduction to Linux/HPC/CP2K
-Afternoon: Diversity/Inclusion workshop
-Evening: HPC/computer set up/computational housekeeping
-
-July 15
-Morning-I:  Practical aspects of DFT calculations
-Morning-II: Surfaces/Binding Energy/Vibrational Frequencies
-Afternoon: Hands-on session
-Evening: Poster Session
