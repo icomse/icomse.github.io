@@ -1,6 +1,6 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_image: "avatars.jpg"
+featured_image: "richard-mohn.jpeg"
 title: "Richard Mohn"
 universities: "Mississippi State University"
 roles: "External Evaluator"
