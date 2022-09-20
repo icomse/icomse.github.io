@@ -10,7 +10,7 @@ menu: "true"
 --> 
 
 #**Software carpentry**
-#link to [Our Resources](https://icomse.github.io/our-resources)
+#link to [our resources](https://icomse.github.io/our-resources)
 
 **Other Resources**
 link to [other resources](/webtesticomse.github.io/other-resources)
