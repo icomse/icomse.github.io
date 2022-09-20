@@ -5,11 +5,11 @@ menu: "true"
 ---
 
 <!-- 
-#**Software carpentry**
-#link to [software carpentry site](https://icomse.github.io/example-template)
+**Software carpentry**
+link to [software carpentry site](https://icomse.github.io/example-template)
 --> 
 
-#**Software carpentry**
+#**Our Resources**
 #link to [our resources](https://icomse.github.io/our-resources)
 
 **Other Resources**
