@@ -9,8 +9,8 @@ menu: "true"
 link to [software carpentry site](https://icomse.github.io/example-template)
 --> 
 
-#**Our Resources**
-#link to [our resources](https://icomse.github.io/our-resources)
+**Our Resources**
+link to [our resources](https://icomse.github.io/our-resources)
 
 **Other Resources**
 link to [other resources](/webtesticomse.github.io/other-resources)
