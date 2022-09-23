@@ -6,7 +6,7 @@ application_deadline: "2022-6-20"
 decision_on_application: "Unknown"
 location: "Missippi"
 registration: "Closed"
-funding: "This workshop is supported by funding from National Science Foundation"
+funding: "This workshop is supported by funding from National Science Foundation."
 categories: ["future-workshops"]
 ---
 
