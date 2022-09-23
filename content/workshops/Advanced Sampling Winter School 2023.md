@@ -12,17 +12,18 @@ categories: ["active-workshops"]
 ---
 
 **Description**:
+
 Advanced sampling is good. Replica Exchange, Path Sampling, Metadynamics.
 
 **Eligibility:** graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty
 
-**Registration Fee:** $100 (waived for participants from non-PhD granting institutes)
+**Registration Fee:** N/A 
 
-**Financial Aid:** Financial support is available to cover housing (in university dormitory), meals, and parking cost for all non-local participants. Limited number of travel stipends ($500) are available to help broaden participation.
+**Financial Aid:** N/A
 
-**Expected number of participants:** 100?
+**Expected number of participants:** 100
 
-**Equipment Needed:** Students are encouraged to bring their laptop.
+**Equipment Needed:** Up to date Zoom.
 
 **Organizers/Instructors**
 - Eric Jankowski, Boise State University
