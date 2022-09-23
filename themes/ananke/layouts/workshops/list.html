@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{/*
-  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a layouts directory, just for that section.
+  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a lsayouts directory, just for that section.
    */}}
   <article class="pa3 pa4-ns nested-copy-line-height">
     <section class="testing2 cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
@@ -29,8 +29,9 @@
 	    </h2>	    	    
 	    <h4>Registration: {{ .Params.registration }}</h4>
 	    <h4>Location: {{ .Params.location }}</h4>
-	    <h4>Application deadline: {{ .Params.application_deadline }}</h4>
-	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>	   
+	    <h4>Workshop dates: {{ .Params.workshop_dates }}</h4>
+	    <h4>Application deadline: {{ .Params.workshop_dates }}</h4>
+	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>
 	    <h4>{{ .Params.funding }}</h4>	    	     
 	    <div class="workshops-summary">    	     	      
 			<p>{{ .Summary }}</p>
@@ -66,6 +67,7 @@
 	    </h2>	    
 	    <h4>Registration: {{ .Params.registration }}</h4>
 	    <h4>Location: {{ .Params.location }}</h4>
+	    <h4>Workshop dates: {{ .Params.workshop_dates }}</h4>	    	    
 	    <h4>Application deadline: {{ .Params.application_deadline }}</h4>
 	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>	 
 	    <h4>{{ .Params.funding }}</h4>	    	     	     	
@@ -104,6 +106,7 @@
 	    </h2>	    
 	    <h4>Registration: {{ .Params.registration }}</h4>
 	    <h4>Location: {{ .Params.location }}</h4>
+	    <h4>Workshop dates: {{ .Params.workshop_dates }}</h4>
 	    <h4>Application deadline: {{ .Params.application_deadline }}</h4>
 	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>	
 	    <h4>{{ .Params.funding }}</h4>	

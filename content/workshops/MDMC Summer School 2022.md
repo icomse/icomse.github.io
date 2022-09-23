@@ -2,11 +2,11 @@
 date: 2017-04-14T11:25:05-04:00
 featured_image: "osu.jpg"
 title: "MDMC Summer School 2022"
+workshop_dates: "July 10-15, 2022"
 application_deadline: "May 20, 2022"
 decision_on_application: "June 1, 2022"
 location: "Oklahoma State Universiy, Stillwater, OK"
 registration: "Closed"
-dates: "July 10-15, 2022"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["past-workshops"]
 ---
