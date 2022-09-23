@@ -1,6 +1,6 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_map: "osu.jpg"
+featured_image: "osu.jpg"
 title: "Advanced Sampling Winter School 2023"
 application_deadline: "November 15, 2022"
 dates: "January 6-9, 2023"
