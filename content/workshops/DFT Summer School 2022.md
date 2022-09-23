@@ -1,6 +1,6 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_image: "msstate-top.jpg"
+featured_image: "msstate.jpg"
 title: "DFT Summer School"
 application_deadline: "2022-6-20"
 decision_on_application: "Passed"
