@@ -1,6 +1,6 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_map: "osu.jpg"
+featured_image: "osu.jpg"
 title: "Autumn school 7"
 application_deadline: "2022-6-20"
 decision_on_application: "Unknown"
