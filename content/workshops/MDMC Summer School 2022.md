@@ -1,6 +1,6 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_map: "osu.jpg"
+featured_image: "osu.jpg"
 title: "MDMC Summer School 2022"
 application_deadline: "May 20, 2022"
 decision_on_application: "June 1, 2022"
