@@ -254,9 +254,9 @@ display: flex;
 }
 .resource-column {
  display:flex;
- padding:0 0 0 2%;
+ padding:0 0 0 1%;
  align-items: flex-start;
- min-width:25%;
+ min-width:30%;
 word-break: break-all;
 }
 .resource-column:first-child {
