@@ -4,8 +4,9 @@ featured_image: "DaveKofke.jpg"
 title: "David A. Kofke"
 universities: "The State University of New York at Buffalo"
 roles: "Advisory Board"
-contact_info: "someguy@buffalo.edu"
+contact_info: "kofke@buffalo.edu"
 categories: [ "Advisory Board" ]
+ph: "+1-716-645-1173"
 ---
 
 Walter E. Schmid Chair\
