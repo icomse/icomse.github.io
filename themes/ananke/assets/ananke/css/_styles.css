@@ -519,4 +519,7 @@ and (max-device-width : 480px) {
 	.f4-ns {
 		font-size: 1rem !important;
 	}
+	.Resources-overview p:nth-child(3) {
+		width:100%;
+	}
 }
