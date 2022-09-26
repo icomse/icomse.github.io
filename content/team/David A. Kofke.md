@@ -9,7 +9,7 @@ categories: [ "Advisory Board" ]
 ph: "+1 716 645 1173"
 ---
 
-Walter E. Schmid Chair\
+Walter E. Schmid Professor\
 SUNY Distinguished Professor\
 Department of Chemical and Biological Engineering
 
