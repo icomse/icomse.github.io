@@ -64,6 +64,7 @@ padding:2%;
 	width:30%;	
 	margin-bottom:20px;	
 	vertical-align: top;	
+	word-break: normal;
 }
 .Resources-overview p:nth-child(4) {
 	display:inline-block;
