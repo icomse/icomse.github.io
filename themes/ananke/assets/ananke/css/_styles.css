@@ -52,6 +52,8 @@ padding:2%;
 .Resources-overview strong {
 	display:block;
 }
+.resource-column p:nth-child(1) {
+	width:20%;
 
 .Resources-overview p:nth-child(2) {
 	display:inline-block;
