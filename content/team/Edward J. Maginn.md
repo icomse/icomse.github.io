@@ -5,7 +5,7 @@ title: "Edward J. Maginn"
 universities: "University of Notre Dame"
 roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-contact_info: "sed@nd.edu"
+contact_info: "ed@nd.edu"
 ph: "+1-574-631-5687"
 ---
 
