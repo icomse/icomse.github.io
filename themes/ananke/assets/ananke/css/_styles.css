@@ -256,7 +256,7 @@ display: flex;
  display:flex;
  padding:0 0 0 1%;
  align-items: flex-start;
- min-width:50%;
+ min-width:30%;
 word-break: break-all;
 }
 .resource-column:first-child {
