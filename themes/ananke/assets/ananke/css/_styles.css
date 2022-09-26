@@ -264,6 +264,7 @@ word-break: break-all;
 }
 .resource-column:first-child {
 	padding-left:0;
+	width:20%;
 }
 
 .team-post {
