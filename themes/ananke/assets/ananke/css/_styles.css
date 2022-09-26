@@ -519,6 +519,9 @@ and (max-device-width : 480px) {
 	.f4-ns {
 		font-size: 1rem !important;
 	}
+	.resource-column:first-child {
+		width:100%;
+	}
 	.Resources-overview p:nth-child(3) {
 		width:100%;
 	}
