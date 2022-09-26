@@ -391,7 +391,10 @@ padding:2rem 0 2rem 0;
 .pr3 {
 	padding-right: 0.5rem;
 	padding-bottom:0;
-}	
+}
+li {
+list-style-position: inside;	
+}
 
 .posts-top .pl0 li {
 	padding-bottom: 1rem;
