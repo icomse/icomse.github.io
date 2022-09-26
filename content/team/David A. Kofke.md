@@ -4,6 +4,7 @@ featured_image: "DaveKofke.jpg"
 title: "David A. Kofke"
 universities: "The State University of New York at Buffalo"
 roles: "Advisory Board"
+contact: "someguy@buffalo.edu"
 categories: [ "Advisory Board" ]
 ---
 
