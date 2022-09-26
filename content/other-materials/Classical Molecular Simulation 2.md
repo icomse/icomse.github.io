@@ -1,5 +1,5 @@
 ---
-title: "Alchemistry.org 2"
+title: "Alchemistry.org"
 link: "http://alchemistry.org/wiki/Main_Page"
 categories: ["Classical Molecular Simulation"]
 ---
