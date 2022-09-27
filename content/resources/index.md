@@ -13,8 +13,8 @@ link to [software carpentry site](https://icomse.github.io/example-template)
 link to [our resources](https://webtesticomse.github.io/our-resources)
 
 **Other Resources**
-link to [other resources](/webtesticomse.github.io/other-resources)
+link to [other resources](../other-resources)
 
 **Contributing**
-link to [contributing](/webtesticomse.github.io/contributing)
+link to [contributing](../contributing)
 
