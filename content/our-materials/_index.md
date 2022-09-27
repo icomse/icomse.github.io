@@ -1,6 +1,5 @@
 ---
-title: "Tables"
-description: "Tables"
+title: "Our materials"
 featured_image: "images/web-top2.jpg"
 top_image: "web-top2.jpg"
 ---
