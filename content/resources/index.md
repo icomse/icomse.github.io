@@ -10,7 +10,7 @@ link to [software carpentry site](https://icomse.github.io/example-template)
 --> 
 
 **Our Resources**
-link to [our resources](https://icomse.github.io/our-resources)
+link to [our resources](https://webtesticomse.github.io/our-resources)
 
 **Other Resources**
 link to [other resources](/webtesticomse.github.io/other-resources)
