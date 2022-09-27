@@ -2,14 +2,16 @@
 date: 2017-04-14T11:25:05-04:00
 featured_image: "Niri.jpg"
 title: "Niri Govind"
+universities: "Pacific Northwest National Laboratory"
 roles: "Advisory Board"
 categories: [ "Advisory Board" ]
 contact_info: "niri.govind@pnnl.gov"
+ph: "+1 509 371 6160"
 ---
 
-Physicist\
-Chemical Physics Theory Team\
-Pacific Northwest National Laboratory
+Chief Scientist, Physicist\
+Physical Sciences Division\
+Physical and Computational Sciences Division\
 
 
 
