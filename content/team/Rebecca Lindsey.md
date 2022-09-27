@@ -6,7 +6,7 @@ universities: "University of Michigan"
 roles: "Advisory Board"
 categories: [ "Advisory Board" ]
 contact_info: "rklinds@umich.edu"
-ph: "+1 410 516 7170"
+ph: "+1 734 763 5142"
 ---
 
 Assistant Professor\
