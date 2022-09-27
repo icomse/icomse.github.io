@@ -32,5 +32,3 @@ Description: Monte Carlo (MC) and molecular dynamics (MD) simulation techniques 
  - Sapna Sarupria, University of Minnesota
  - Jindal Shah, Oklahoma State University
  - Michael Shirts, University of Colorado Boulder
-
-
