@@ -5,6 +5,7 @@ title: "Carla Reynolds"
 universities: "Boeing"
 roles: "Advisory Board"
 categories: [ "Advisory Board" ]
+contact_info: "Carla.E.Reynolds@boeing.com"
 ---
 
 Associate Technical Fellow
