@@ -13,7 +13,7 @@
           </h1>
 
 	<div class="w-100 center workshop-overview">
-	{{ range (.Site.GetPage "section" "news").Pages }}
+	{{ range (.Site.GetPage "section" "upcoming_workshops").Pages }}
 	          <div class="relative w-46 workshop-post workshop-highlights">
 	            {{ .Render "summary-workshops" }}
 	          </div>
