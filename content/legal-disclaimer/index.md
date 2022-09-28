@@ -13,7 +13,7 @@ Information other than personally identifiable information is collected for anal
 
 i-CoMSE logos should not be used without permission. 
 
-All content including but not limited to policies, legal disclaimer, and code of conduct are subject to change without any notice.
+All content, including but not limited to policies, legal disclaimer, and code of conduct, are subject to change without any notice.
 
 
 
