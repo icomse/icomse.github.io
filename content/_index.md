@@ -1,7 +1,7 @@
 ---
 title: "Home"
 
-description: "ICoMSE"
+description: "i-CoMSE"
 cascade:
 featured_image: '/Some-Land-Lake-Michigan.jpg'
 ---
