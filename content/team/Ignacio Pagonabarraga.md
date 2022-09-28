@@ -1,16 +1,18 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-featured_image: "GlakeHill.jpg"
-title: "Glake Hill"
-universities: "Jackson State University"
+featured_image: "Ignacio.jpg"
+title: "Pagonabarraga, Ignacio"
+first_name: "Ignacio"
+last_name: "Pagonabarraga"
+universities: "University of Barcelona"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-ph: "+1 601 979 1699"
-contact_info: "glakeh@icnanotox.org"
+ph: "+34 93 402 11 57"
+contact_info: "ipagonabarraga@ub.edu"
 ---
 
 Professor\
-Department of Chemistry, Physics and Atmospheric Sciences
+Department of Fundamental Physics
 
 
 
