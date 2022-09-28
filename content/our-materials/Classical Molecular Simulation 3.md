@@ -1,10 +1,10 @@
 ---
-title: "Alchemistry.org 3"
-link: "http://alchemistry.org/wiki/Main_Page"
+title: "Lemkul GROMACS tutorials"
+link: "http://www.mdtutorials.com/gmx/)"
 categories: ["Classical Molecular Simulation"]
 ---
 
-A link of resources for the best practices in performing alchemical molecular simulations.
+Justin Lemkul's popular GROMACS tutorials.
 
 
 
