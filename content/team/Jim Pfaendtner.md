@@ -1,7 +1,9 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 featured_image: "jim-pfaendtner.png"
-title: "Jim Pfaendtner"
+title: "Pfaendtner, Jim"
+first_name: "Jim"
+last_name: "Pfaendtner"
 universities: "University of Washington"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
