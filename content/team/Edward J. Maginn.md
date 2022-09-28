@@ -4,7 +4,7 @@ featured_image: "EdMaginn.jpg"
 title: "Edward J. Maginn"
 universities: "University of Notre Dame"
 #roles: "Advisory Board"
-categories: [ "Advisory Board" ]
+categories: [ "External Evaluator" ]
 contact_info: "ed@nd.edu"
 ph: "+1 574 631 5687"
 ---
