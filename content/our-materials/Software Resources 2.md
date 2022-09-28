@@ -1,10 +1,10 @@
 ---
-title: "Is this edited?"
-link: "https://chemcompute.org/"
+title: "MolSSI Education"
+link: "http://education.molssi.org"
 categories: ["Software Resources"]
 ---
 
-A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.
+MolSSI offers a number of education workshops for students and post docs in the computational molecular sciences. These workshops cover a range of material, from basic scripting to writing programs which use MolSSI Best Practices.
 
 
 
