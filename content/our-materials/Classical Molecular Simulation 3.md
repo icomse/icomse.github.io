@@ -1,10 +1,10 @@
 ---
-title: "Lemkul GROMACS tutorials"
-link: "http://www.mdtutorials.com/gmx/)"
+title: "Lemkul MD tutorials"
+link: "http://www.mdtutorials.com/)"
 categories: ["Classical Molecular Simulation"]
 ---
 
-Justin Lemkul's popular GROMACS tutorials.
+Justin Lemkul's popular tutorials for GROMACS, CHARMM, and OpenMM
 
 
 
