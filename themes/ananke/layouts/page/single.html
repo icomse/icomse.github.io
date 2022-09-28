@@ -96,7 +96,7 @@
 		<div class="resources-posts our-materials-posts">
 			<div class="team-subtitle"><h2>Quantum Chemistry</h2></div>
 				<div class="post-overview">
-					{{ $ev := where site.RegularPages "Type" "other-resources" }}
+					{{ $ev := where site.RegularPages "Type" "our-materials" }}
 					{{ $ev = where $ev "Params.categories" "intersect" (slice "Quantum Chemistry") }}
 					{{ range first 999 $ev }}
 				    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} resources-post overflow-hidden">
@@ -118,7 +118,7 @@
 		<div class="resources-posts other-materials-posts">
 			<div class="team-subtitle"><h2>Classical Molecular Simulation</h2></div>
 				<div class="post-overview">
-					{{ $om := where site.RegularPages "Type" "other-resources" }}
+					{{ $om := where site.RegularPages "Type" "our-materials" }}
 					{{ $om = where $om "Params.categories" "intersect" (slice "Classical Molecular Simulation") }}
 					{{ range first 999 $om }}
 				    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} resources-post overflow-hidden">
@@ -140,7 +140,7 @@
  		<div class="resources-posts contributing-posts">
 			<div class="team-subtitle"><h2>Software Resources</h2></div>
 				<div class="post-overview">
-					{{ $sr := where site.RegularPages "Type" "other-resources" }}
+					{{ $sr := where site.RegularPages "Type" "our-materials" }}
 					{{ $sr = where $sr "Params.categories" "intersect" (slice "Software Resources") }}
 					{{ range first 999 $sr }}
 				    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} resources-post overflow-hidden">
