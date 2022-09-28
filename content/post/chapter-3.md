@@ -1,10 +1,10 @@
 ---
 date: 2021-06-22T11:25:05-04:00
-when: "20 august 2022"
+when: "October 1, 2021"
 featured_image: "/images/website-snapshot.jpg"
 background: "false"
 menu: "true"
-title: "National Science Foundation awards funding to establish Institute of Computational Molecular Science Education (October 2021)"
+title: "National Science Foundation awards funding to establish Institute of Computational Molecular Science Education"
 ---
 
 {{< img src="web-img.jpg" title="Institute of Computational Molecular Science Education" >}}
