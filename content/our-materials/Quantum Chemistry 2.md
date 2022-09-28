@@ -1,10 +1,11 @@
 ---
-title: "Psi4 Education 2"
-link: "https://psicode.org/posts/psi4education/"
+title: "Teaching with Q-Chem"
+link: "https://www.q-chem.com/learn/"
 categories: ["Quantum Chemistry"]
 ---
 
-Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.
+This page contains a selection of teaching resources which are freely available for instructors to use, including tips on using Q-Chem and the IQmol interface in the classroom, video tutorials, presentations, and guest lectures. There is also a selection of computational chemistry lab assignments, which can be given as homework or used as in-class exercises.
+
 
 
 
