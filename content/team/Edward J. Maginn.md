@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 featured_image: "EdMaginn.jpg"
-title: "Edward J. Maginn"
+title: "Maginn, Edward J."
 first_name: "Edward J." 
 last_name: "Maginn" 
 universities: "University of Notre Dame"
