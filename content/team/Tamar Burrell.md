@@ -1,7 +1,9 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 featured_image: "tamar.jpg"
-title: "Tamar Burrell"
+title: "Burrell, Tamar"
+last_name: "Burrell"
+first_name: "Tamar"
 universities: "Mississippi State University"
 #roles: "Project Coordinator"
 categories: [ "Project Coordinator" ]
