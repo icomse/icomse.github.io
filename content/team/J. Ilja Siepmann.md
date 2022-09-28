@@ -1,7 +1,9 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 featured_image: "siepmann.jpg"
-title: "J. Ilja Siepmann"
+title: "Siepmann, J. Ilja"
+first_name: "J. Ilja"
+last_name: "Siepmann"
 universities: "University of Minnesota"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
