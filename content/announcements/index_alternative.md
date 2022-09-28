@@ -5,8 +5,8 @@ featured_image: "images/web-top2.jpg"
 top_image: "web-top2.jpg"
 ---
 
-*1/20/2022*
-### National Science Foundation awards funding to establish Institute of Computational Molecular Science Education (October 2021) ###
+*10/1/2022*
+### National Science Foundation awards funding to establish Institute of Computational Molecular Science Education ###
 
 {{< img src="web-img.jpg" title="Institute of Computational Molecular Science Education" >}}
 
