@@ -89,7 +89,7 @@
 	    <h4>{{ .Params.universities }}</h4>
 	    <h4>{{ .Params.roles }}</h4>
 <p>{{ .Content }}</p>
-{{if .Params.contact }}
+{{if .Params.contact_info }}
 <h4 style="margin:7px 0 0 0">Contact:</h4> <a href="mailto:{{ .Params.contact }}" style="margin-top:0">{{ .Params.contact_info }}</a>
 <br/><a href="tel:{{ .Params.ph }}" style="margin-top:0">{{ .Params.ph }}</a>
 {{end}}
