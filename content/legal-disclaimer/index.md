@@ -1,6 +1,6 @@
 ---
 title: "Legal disclaimer"
-description: "What is i-CoMSE?"
+description: "i-CoMSE legal disclaimer"
 background: "false"
 menu: "true"
 ---
