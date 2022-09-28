@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning for Molecules and Materials"
-link: "https://chemcompute.org/"
+link: "https://dmol.pub/"
 categories: ["Software Resources"]
 ---
 
