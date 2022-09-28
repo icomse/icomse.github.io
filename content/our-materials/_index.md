@@ -1,7 +1,7 @@
 ---
-title: "Our materials"
-featured_image: "images/web-top2.jpg"
-top_image: "web-top2.jpg"
+title: "Our Materials"
+background: "false"
+menu: "true"
 ---
 
 Linked below are various i-CoMSE-produced materials! 
