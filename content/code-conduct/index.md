@@ -1,5 +1,6 @@
 ---
 title: "Code of Conduct"
+description: "i-CoMSE Code of Conduct"
 background: "false"
 menu: "true"
 ---
