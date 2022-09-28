@@ -4,7 +4,6 @@ featured_image: "richard-mohn.jpeg"
 title: "Mohn, Richard"
 universities: "University of Southern Mississippi"
 contact_info: "Richard.mohn@usm.edu"
-ph: "+1 800 000 000"
 categories: [ "External Evaluator" ]
 ---
 
