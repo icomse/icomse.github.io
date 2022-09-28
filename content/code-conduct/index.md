@@ -54,6 +54,6 @@ Everyone who participates in i-CoMSE activities is required to conform to this C
   - Continuing to initiate interaction (including photography or recording) with someone after being asked to stop
   - Publication of private communication without consent
 
-**Part 2.3 Consequences of Unacceptable behaviour**: Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any i-CoMSE events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage the Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+**Part 2.3 Consequences of Unacceptable behaviour**: Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any i-CoMSE events and platforms, either online or in-person. If a participant engages in behaviour that violates this Code of Conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage the i-CoMSE executive committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
 
