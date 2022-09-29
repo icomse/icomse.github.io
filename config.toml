@@ -1,4 +1,4 @@
-baseURL = 'https://icomse.github.io/'
+baseURL = 'https://www.i-comse.org'
 languageCode = 'en-us'
 title = 'i-CoMSE'
 theme = "ananke"
