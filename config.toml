@@ -11,6 +11,7 @@ paginate = 3
   workshops = "workshops-posts"
   other-materials = "other-materials-posts"
   our-materials = "our-materials-posts"
+  other-resources-posts = "other-resources-posts"
 
 tag = "tags"
   category = "categories"
