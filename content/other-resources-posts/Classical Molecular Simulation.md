@@ -1,10 +1,10 @@
 ---
 title: "Alchemistry.org"
-link: "http://alchemistry.org/wiki/Main_Page"
+link: "http://alchemistry.org"
 categories: ["Classical Molecular Simulation"]
 ---
 
-A link of resources for the best practices in performing alchemical molecular simulations.
+A website with instruction and resources for best practices in performing alchemical molecular simulations.
 
 
 
