@@ -1,0 +1,24 @@
+<div class="contributing-posts resources-posts display-none">
+	
+   <div class="team-subtitle"><h2>Software Resources</h2></div>
+    <div class="post-overview">
+{{ $ab := where site.RegularPages "Type" "tables" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "Software Resources") }}
+{{ range first 999 $ab }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-text">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+<p>{{ .Summary }}</p>
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>	
+	
+	{{ .Inner | markdownify }}
+</div>

@@ -1,0 +1,82 @@
+baseURL = 'https://webtesticomse.github.io/'
+languageCode = 'en-us'
+title = 'i-CoMSE'
+theme = "ananke"
+summaryLength = 65
+publishDir = "docs"
+paginate = 3
+
+[taxonomies]
+  team = "teammembers"
+  workshops = "workshops-posts"
+  other-materials = "other-materials-posts"
+  our-materials = "our-materials-posts"
+  other-resources-posts = "other-resources-posts"
+
+tag = "tags"
+  category = "categories"
+  when = "when"
+  university = "universities"
+  role = "roles"
+  fund = "funding"
+  application-deadline = "application-deadlines"
+  featured_map = "featured-map"
+  decision-on-application = "decision-on-applications"
+  registration = "registrations"
+  contact_info = "contact_info"
+  ph = "ph"
+  material = "materials"
+  instruction = "instructions"
+  lesson = "lessons"
+  link = "links"
+  name = "names"
+
+[menu]
+[[menu.main]]
+  identifier = 'Home'
+  name = 'Home'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/'
+  weight = -110
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -100
+[[menu.main]]
+  identifier = 'announcements'
+  name = 'Announcements'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/announcements/'
+  weight = -90
+[[menu.main]]
+  identifier = 'team'
+  name = 'Team'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/team/'
+  weight = -80
+[[menu.main]]
+  identifier = 'workshops'
+  name = 'Workshops'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/workshops/'
+  weight = -70
+[[menu.main]]
+  identifier = 'resources'
+  name = 'Resources'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/resources/'
+  weight = -60
+[[menu.main]]
+  identifier = 'forums'
+  name = 'Forums'
+  pre = "<i class='fa fa-heart'></i>"
+  url = 'https://github.com/icomse/mcmd-hoomd/discussions/'
+  weight = -50
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/contact/'
+  weight = -40

@@ -1,0 +1,197 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+
+  {{ if eq .Title "Forums" }}
+<div class="announcements-overview"> 
+  <div class="flex-l mt2 w-70-ns center">
+    <article class="center cf pv5 ph3 ph4-ns">
+      <header>
+        <h1 class="barlow flex-none darkblue">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
+ <p>{{ .Content }}</p>
+      </div>
+
+{{ end }}
+
+
+  {{ if eq .Title "Contact" }}
+<div class="announcements-overview"> 
+  <div class="flex-l mt2 w-70-ns center">
+    <article class="center cf pv5 ph3 ph4-ns">
+      <header>
+        <h1 class="barlow flex-none darkblue">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
+ <p>{{ .Content }}</p>
+      </div>
+
+{{ end }}
+
+
+  {{ if eq .Title "Announcements" }}
+<div class="announcements-overview"> 
+  <div class="mt2 w-70-ns">
+    <article class="center cf pv5 ph3 ph4-ns">
+      <header>
+        <h1 class="barlow flex-none darkblue">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
+ <p>{{ .Content }}</p>
+      </div>
+    </article>
+  </div>
+{{else}}
+
+<div class="{{ .Title }}-overview"> 
+  <div class="mt2 w-70-ns center">
+    <article class="cf pv5 ph3 ph4-ns">
+      <header>
+        <h1 class="barlow flex-none darkblue">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
+ <p>{{ .Content }}</p>
+      </div>
+
+{{ end }}
+
+
+
+  {{ if eq .Title "Other Resources" }}
+    <article class="pa3 pa4-ns nested-copy-line-height">
+  
+<div class="resources-button-overview">    
+   <div class="resources-button active-button our-materials-button">Quantum Chemistry</div> <div class="resources-button other-materials-button">Classical Molecular Simulation</div> <div class="resources-button contributing-button">Software Resources</div>
+</div>  
+
+
+  <div class="flex-l mt2 w-70-ns center">
+    <article class="left cf ph3">
+  {{ end }}      
+      <div class="display-inline">
+        {{ if eq .Title "Other Resources" }}
+        <div>
+			{{ .Content }}
+        </div>
+      </div>
+        {{ end }}
+
+        {{ if eq .Title "Other Resources" }}
+        <div>
+			{{ .Content }}
+        </div>
+      </div>
+        {{ end }}        
+        
+      
+  {{ if eq .Title "Other Resources" }}
+		<div class="resources-posts our-materials-posts">
+			<div class="team-subtitle"><h2>Quantum Chemistry</h2></div>
+				<div class="post-overview">
+					{{ $ev := where site.RegularPages "Type" "other-resources-posts" }}
+					{{ $ev = where $ev "Params.categories" "intersect" (slice "Quantum Chemistry") }}
+					{{ range first 999 $ev }}
+				    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} resources-post overflow-hidden">
+				    	<div class="team-text resources-columns">
+						    <h2 class="f3 near-black resource-column">
+						        {{ .Title }}
+						    </h2>	    
+							<a class="resource-column" href="{{ .Params.link }}">{{ .Params.link }}</a>
+							<p class="resource-column">{{ .Summary }}</p>
+    					</div>
+					<div class="nested-links f5 lh-copy nested-copy-line-height">
+    				</div>
+  				</div>
+  				<hr>
+  				{{end}}
+			</div>
+		</div>
+
+		<div class="resources-posts other-materials-posts">
+			<div class="team-subtitle"><h2>Classical Molecular Simulation</h2></div>
+				<div class="post-overview">
+					{{ $om := where site.RegularPages "Type" "other-resources-posts" }}
+					{{ $om = where $om "Params.categories" "intersect" (slice "Classical Molecular Simulation") }}
+					{{ range first 999 $om }}
+				    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} resources-post overflow-hidden">
+				    	<div class="team-text resources-columns">
+						    <h2 class="f3 near-black resource-column">
+						        {{ .Title }}
+						    </h2>	    
+							<a class="resource-column" href="{{ .Params.link }}">{{ .Params.link }}</a>
+							<p class="resource-column">{{ .Summary }}</p>
+    					</div>
+					<div class="nested-links f5 lh-copy nested-copy-line-height">
+    				</div>
+  				</div>
+  				<hr>
+  				{{end}}
+			</div>
+		</div>
+
+ 		<div class="resources-posts contributing-posts">
+			<div class="team-subtitle"><h2>Software Resources</h2></div>
+				<div class="post-overview">
+					{{ $sr := where site.RegularPages "Type" "other-resources-posts" }}
+					{{ $sr = where $sr "Params.categories" "intersect" (slice "Software Resources") }}
+					{{ range first 999 $sr }}
+				    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} resources-post overflow-hidden">
+				    	<div class="team-text resources-columns">
+						    <h2 class="f3 near-black resource-column">
+						        {{ .Title }}
+						    </h2>	    
+							<a class="resource-column" href="{{ .Params.link }}">{{ .Params.link }}</a>
+							<p class="resource-column">{{ .Summary }}</p>
+    					</div>
+					<div class="nested-links f5 lh-copy nested-copy-line-height">
+    				</div>
+  				</div>
+  				<hr>
+  				{{end}}
+			</div>
+		</div>
+     
+      
+      
+    </article>
+  </div>
+{{ end }} 
+
+{{ if eq .Title "Announcements" }} 
+<div class="announcements-overview">
+{{ $pages := first 999 (where site.RegularPages "Type" "post") }} 
+{{ range first 999 $pages }}
+  <div class="flex-l mt2 w-70-ns center">
+    <article class="center cf pv5 ph3 ph4-ns">
+      <header>
+        <h2>
+         {{ .Title }}
+        </h2>
+         <span class="small-date">Date: {{ .Params.when }}</span>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+<hr>
+{{end}}
+
+
+</div>
+{{ end }}
+
+	
+</div>
+
+
+{{ end }}
+

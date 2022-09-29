@@ -1,0 +1,19 @@
+{{ range where .Site.Pages "Params.categories" "Sport" }}
+<div class="relative w-100 mb4 nested-copy-line-height">
+  <div class="mb3 gray overflow-hidden">
+    <h1 class="f3 near-black">
+      <a href="{{ .RelPermalink }}" class="link black dim">
+        {{ .Title }}
+      </a>
+    </h1>
+    <div class="team-img">
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+    </div>
+    <div class="team-text">    
+	    <div class="nested-links f5 lh-copy nested-copy-line-height">
+	      {{ .Summary }}
+	    </div>
+    </div>
+  </div>
+</div>
+{{end}}

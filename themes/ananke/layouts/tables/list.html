@@ -1,0 +1,71 @@
+{{ define "main" }}
+{{/*
+  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a layouts directory, just for that section.
+   */}}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="testing2 cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide test-list lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{ .Content }} 
+    </section>
+    
+    <div class="team-subtitle"><h2>Quantum Chemistry test</h2></div>
+    <div class="post-overview testing7">
+{{ $ev := where site.RegularPages "Type" "tables" }}
+{{ $ev = where $ev "Params.categories" "intersect" (slice "Quantum Chemistry") }}
+{{ range first 999 $ev }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-text">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>	    
+	    <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+<p>{{ .Summary }}</p>
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+
+    <div class="team-subtitle"><h2>Classical Molecular Simulation</h2></div>
+    <div class="post-overview">
+{{ $ab := where site.RegularPages "Type" "tables" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "Classical Molecular Simulation") }}
+{{ range first 999 $ab }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-text">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+<p>{{ .Summary }}</p>
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+
+    <div class="team-subtitle"><h2>Software Resources</h2></div>
+    <div class="post-overview">
+{{ $ab := where site.RegularPages "Type" "tables" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "Software Resources") }}
+{{ range first 999 $ab }}
+    <div class="pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="team-text">
+    <h2 class="f3 near-black">
+        {{ .Title }}
+    </h2>		    
+	    <a href="{{ .Params.link }}">{{ .Params.link }}</a>
+<p>{{ .Summary }}</p>
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+
+  </article>
+{{ end }}

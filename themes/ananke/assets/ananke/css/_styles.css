@@ -1,0 +1,542 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+.barlow {
+	font-family: 'Mulish', sans-serif !important;
+}
+
+h1 {
+	letter-spacing: .01em;
+}
+
+.payoff {
+	background: rgb(91,130,164);
+background: linear-gradient(180deg, rgba(91,130,164,1) 35%, rgba(136,174,192,1) 100%);
+color:white;
+padding:1%;
+}
+.supported {
+background: rgb(235,235,235);
+background: linear-gradient(180deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 33%);
+color:#001483;
+padding:2%;
+}
+.supported span {
+	display:block;
+	text-align: center;
+	font-size:80%;	
+}
+
+.payoff span {
+	display:block;
+	text-align: center;
+	font-weight: bold;
+}
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+
+}
+
+.nested-links a{
+  overflow-wrap: break-word;
+}
+.Resources-overview strong {
+	display:block;
+}
+.Resources-overview p {
+	display:inline-block;	
+	width:30%;
+	vertical-align: top;	
+	word-break: normal;	
+}
+.Resources-overview p:nth-child(1) {
+	display:none;	
+}
+
+
+.resources-columns .resource-column p:nth-child(1) {
+	width:20%;
+}
+.resources-columns p:nth-child(2) {
+	display:inline-block;
+	width:30%;
+	margin-bottom:20px;
+	vertical-align: top;
+}
+.resources-columns p:nth-child(3) {
+	display:inline-block;
+	width:40%;	
+	margin-bottom:20px;	
+	vertical-align: top;	
+	word-break: normal;
+}
+.resources-columns p:nth-child(4) {
+	display:inline-block;
+	width:30%;	
+	margin-bottom:20px;	
+	vertical-align: top;	
+}
+
+.workshop-overview {
+	display: flex; 
+	box-sizing: 
+	border-box; 
+	flex-wrap: wrap; 
+	width:104%; 
+	margin-left:-2%;
+}
+
+.workshop-post {
+	display:flex; 
+	padding:2%; 
+	box-sizing: 
+	border-box; 
+	width: 50%;
+}
+.workshop-highlights .pa4 {
+	padding:2rem;
+}
+
+.news-highlights .pa3 {
+	padding:0;
+}
+
+.news-overview {
+	margin-top:-20px !important;
+	padding-top:0;
+}
+
+.darkblue {
+color: #001483;	
+}
+
+.bg-white {
+background: rgb(133,166,181);
+background: linear-gradient(180deg, rgba(133,166,181,0.2007177871148459) 0%, rgba(237,237,237,1) 69%, rgba(255,255,255,1) 100%);
+}
+
+.newsimg {
+	-webkit-box-shadow: 0px 0px 12px 1px rgba(0,0,0,0.2); 
+	box-shadow: 0px 0px 12px 1px rgba(0,0,0,0.2);	
+	margin-top:8px;
+}
+
+.bg-white {
+	min-height:220px;
+}
+
+.bg-near-white {
+	background-color: #fff;
+}
+
+.dark-gray, .mid-gray, .gray {
+	color:#000;
+}
+
+.posts-top {
+	
+}
+
+.site-header .mr3 {
+	line-height: 30px;
+}
+
+.active {
+	border-bottom:3px solid white;
+}
+
+.image-left {
+	width:35%; 
+	margin-right:3%; 
+	margin-bottom:1%; 
+	margin-top:25px; 
+	box-shadow: 0 0 12px 1px rgba(0,0,0,.2);
+}
+
+.announcements-overview .image-left {
+	margin-top:10px;
+}
+
+.announcements-overview h2 {
+	padding-bottom:30px;
+}
+.announcements-overview article {
+	padding-top: 0;
+	padding-bottom: 0;	
+}
+
+hr {
+	border-color: #90adbe;
+	border-width: 0.5px;
+	opacity: 0.5;
+	margin:0;
+}
+.team-img {
+	height:150px;
+	width:150px;
+	border-radius: 75px;
+	overflow:hidden;
+	float:left;
+	margin-right:20px;
+}
+.team-text-70 {
+	float:left;
+	width:calc(90% - 150px);
+}
+.team-text-70 h2, .team-text-70 h4 {
+	padding:0;
+	margin:0 0 7px 0;
+}
+.team-img img {
+	width:100%;
+	height:100%;
+object-fit: cover;	
+}
+
+.workshops-img {
+	width:220px;
+	margin-bottom:15px;
+	overflow:hidden;
+	float:left;
+	margin-right:20px;
+}
+
+iframe {
+	border:none;
+	border-width: 0px;
+}
+.workshops-text {	
+	width:100%;
+}
+.workshops-img img {
+	width:100%;
+}
+
+.workshops-posts {
+	display:none !important;
+	flex: 1 1 30%; /*grow | shrink | basis */
+	flex-wrap: wrap;
+	justify-content: space-between;	
+}
+
+.display-flex {
+	display:flex !important;
+}
+
+.display-inline {
+	display:inline !important;
+}
+
+.workshops-text p {
+	display:inline-block !important;
+	margin-top:0px;
+	width:100%;
+}
+
+.display-none {
+	display:none !important;	
+}
+
+.post-overview {
+	width:90%;
+	max-width:1400px;
+	margin:0 auto;
+}
+.team-overview {
+	display:flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;  
+}
+.resources-overview {
+	display:flex;
+ flex-direction: row;
+ flex-wrap: wrap;	
+}
+.resources-columns {
+display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.resource-column {
+ display:flex;
+ padding:0 0 0 1%;
+ align-items: flex-start;
+ min-width:30%;
+word-break: break-all;
+}
+.resource-column:first-child {
+	padding-left:0;
+	width:15%;
+}
+.resources-columns .resource-column:nth-child(2) {
+	width:40%;
+}
+
+.team-post {
+	max-width: 50%;
+}
+.resources-post {
+ flex-basis: 33%;
+}
+.site-header {
+	height:450px;
+}
+.active-button {
+	font-weight: bold;
+}
+.workshops-button-overview, .teams-button-overview, .resources-button-overview {
+	width:100%;
+	height:50px;
+	display:flex;
+  align-items: center;
+  justify-content: center;		
+}
+
+.workshops-button, .teams-button, .resources-button  {
+	width:auto;
+padding:10px 20px;
+cursor:pointer;
+text-align: center;
+}
+
+
+.team-wrapper {
+	display:none;
+}
+
+.executive-committee {
+	display:block;
+}
+
+.workshops-text h4 {
+	padding:0;
+	margin:0 0 10px 0;
+}
+.workshops-text h2 {
+	padding:0;
+	margin:0 0 15px 0;
+}
+
+.workshops-summary {
+	display:inline;
+	width:100%;
+}
+
+.workshops-content {
+	display:none;
+}	
+
+.readmore-button {
+	cursor:pointer;
+}
+
+.team-subtitle {
+	width:100%;
+	text-align: center;
+	color:#001483;
+}
+.resources-posts {
+	display:none;
+}
+
+.our-materials-posts {
+	display:inline;
+}
+
+
+.small-date {
+	position: absolute;
+	margin-top:-40px;
+}
+
+.pa4 {
+padding:2rem 0 2rem 0;
+}
+
+.workshops-posts .pa4 {
+	width:550px;
+}
+
+.resources-posts .pa4 { 
+	width:100%;	
+}
+
+.w-70-ns {
+		width:90%;
+		margin: 0 auto;
+		max-width:1400px;		
+}
+.pb7 {
+	padding-bottom:0;
+}
+.logobox {
+	padding-right:5%;
+}
+.bg-top {
+    background-position: center;	
+}
+	.bg-top .pv3 {
+		padding-top:0rem;
+	}
+.bg-none {
+	height:auto;
+	background: rgb(54,103,193);
+	background: linear-gradient(180deg, rgba(54,103,193,1) 0%, rgba(121,159,228,1) 42%, rgba(133,166,227,1) 100%);
+	padding:0;
+}
+.pv3 {
+	padding-top:0rem;
+}
+.pa4-ns {
+	padding-top:0.7rem;
+}
+.pv6 {
+	padding:0;
+	height:400px;
+}
+	.f4-ns {
+		font-size: 1rem !important;
+	}
+.pr3 {
+	padding-right: 0.5rem;
+	padding-bottom:0;
+}
+li {
+list-style-position: inside;	
+}
+
+.posts-top .pl0 li {
+	padding-bottom: 1rem;
+	padding-top:0.38rem;
+}
+.posts-top .logobox {
+	margin-top:-5px;
+}
+
+.pl0 li {
+	padding-bottom: 1rem;
+	padding-top:0.75rem;
+}
+.pv3 {
+	padding-bottom:0;
+}
+.mr3 {
+}
+
+.team-overview .pa4 {
+	width:45%;
+}
+@media only screen 
+and (min-device-width : 481px) 
+and (max-device-width : 1024px) {
+	.f4-ns {
+		font-size: 1rem !important;
+	}
+	.bg-none {
+		height:130px;
+	}	
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+	.teams-button-overview {
+	width: 100%;
+    height: auto !important;
+    display: inline !important;
+    align-items: center;
+    justify-content: center;		
+	}
+
+	.team-overview .pa4 {
+		width:auto !important;
+		margin-left:10px;
+	}
+
+.workshops-button, .teams-button, .resources-button {
+	padding-top:10px;
+	padding-bottom:0;
+}
+	
+	.pb7, 	.pv5 {
+		padding:0;
+	}
+	.team-overview {
+		display:inline;
+	}
+	.team-post {
+		width:100%;
+		max-width:100%;
+	}
+	
+	.logohome {
+		display:none;
+	}
+	.logonav {
+		width:50%;
+		margin-left:25%;
+	}
+	.workshop-overview {
+		display: inline;
+		box-sizing: border-box; 
+		flex-wrap: wrap; 
+		width:104%; 
+		margin-left:-2%;
+	}
+	
+	.workshop-post {
+		display:inline; 
+		padding:2%; 
+		box-sizing: border-box; 
+		height: 300px; 
+		width: 50%;
+	}
+	.pa3 {
+		padding:0;
+	}
+	
+	.w-70-ns {
+		width:95% !important;
+	}
+	.bg-top {
+		background-image: url(https://dawnofman.nl/ICoMSE-mobile.jpg) !important;
+		height:200px;
+	}
+	.workshops-img {
+		width:100%;
+	}
+	iframe {
+		width:100%;
+	}
+	.our-materials-posts {
+		width:100%;
+		display:inline;
+	}
+	.resources-columns {
+		display:inline;
+	}
+	.bg-none {
+	height:140px;
+	}
+	.pl0 li {
+		padding-bottom:5px;
+	}
+	.f4-ns {
+		font-size: 1rem !important;
+	}
+	.resource-column:first-child {
+		width:100%;
+	}
+	.Resources-overview p:nth-child(3) {
+		width:100%;
+	}
+}

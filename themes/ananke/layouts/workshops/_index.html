@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <div class="flex-l mt2 w-70-ns center">
+    <article class="center cf ph3">
+      <header>
+        <h1 class="f1">
+          {{ .Description }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+         {{ .Content }}
+      </div>
+    </article>
+  </div>
+    
+{{ if eq .Title "Announcements" }}
+<div class="announcements-overview">
+{{- partial "partials/partial-posts.html" . -}}
+</div>
+
+
+	
+</div>
+{{ end }}
+
+{{ end }}
+

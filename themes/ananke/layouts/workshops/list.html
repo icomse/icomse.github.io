@@ -1,0 +1,130 @@
+{{ define "main" }}
+{{/*
+  This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a lsayouts directory, just for that section.
+   */}}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="testing2 cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{ .Content }} 
+    </section>
+
+<div class="workshops-button-overview">    
+   <div class="workshops-button active-button active-workshops-button">Active workshops</div>  <div class="workshops-button future-workshops-button">Future workshops</div> <div class="workshops-button past-workshops-button">Past workshops</div>   
+</div>
+    
+    <div class="future-workshops-posts workshops-posts display-none post-overview">
+{{ $ev := where site.RegularPages "Type" "workshops" }}
+{{ $ev = where $ev "Params.categories" "intersect" (slice "future-workshops") }}
+{{ range first 999 $ev }}
+    <div class="mb3 pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="workshops-img">
+		{{ if .Params.featured_image }}
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+        {{ end }}
+        {{ if .Params.featured_map }}
+          <iframe width="220" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ .Params.featured_map }}"></iframe><br/><small><a target="blank" href="https://www.openstreetmap.org/#map=13/33.4390/-88.7908">Show larger map</a></small>
+          {{ end }}    </div>
+    <div class="workshops-text">
+	    <h2 class="f3 near-black">
+	        {{ .Title }}
+	    </h2>	    	    
+	    <h4>Registration: {{ .Params.registration }}</h4>
+	    <h4>Location: {{ .Params.location }}</h4>
+	    <h4>Workshop dates: {{ .Params.workshop_dates }}</h4>
+	    <h4>Application deadline: {{ .Params.workshop_dates }}</h4>
+	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>
+	    <h4>{{ .Params.funding }}</h4>	    	     
+	    <div class="workshops-summary">    	     	      
+			<p>{{ .Summary }}</p>
+			<div class="workshops-readmore readmore-button">Read more</div>
+	    </div>
+	    <div class="workshops-content">    	     	      
+			{{ .Content }}
+			<div class="workshops-readless readmore-button">Read less</div>
+	    </div>	    
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+
+    <div class="past-workshops-posts workshops-posts display-none post-overview">
+{{ $ab := where site.RegularPages "Type" "workshops" }}
+{{ $ab = where $ab "Params.categories" "intersect" (slice "past-workshops") }}
+{{ range first 999 $ab }}
+    <div class="mb3 pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="workshops-img">
+		{{ if .Params.featured_image }}
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+        {{ end }}
+        {{ if .Params.featured_map }}
+          <iframe width="220" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ .Params.featured_map }}"></iframe><br/><small><a target="blank" href="https://www.openstreetmap.org/#map=13/33.4390/-88.7908">Show larger map</a></small>
+          {{ end }}    </div>
+    <div class="workshops-text">
+	    <h2 class="f3 near-black">
+	        {{ .Title }}
+	    </h2>	    
+	    <h4>Registration: {{ .Params.registration }}</h4>
+	    <h4>Location: {{ .Params.location }}</h4>
+	    <h4>Workshop dates: {{ .Params.workshop_dates }}</h4>	    	    
+	    <h4>Application deadline: {{ .Params.application_deadline }}</h4>
+	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>	 
+	    <h4>{{ .Params.funding }}</h4>	    	     	     	
+	    <div class="workshops-summary">    	     	      
+			<p>{{ .Summary }}</p>
+			<div class="workshops-readmore readmore-button">Read more</div>
+	    </div>
+	    <div class="workshops-content">    	     	      
+			{{ .Content }}
+			<div class="workshops-readless readmore-button">Read less</div>
+	    </div>		    
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+
+    <div class="active-workshops-posts workshops-posts display-flex post-overview">
+{{ $aw := where site.RegularPages "Type" "workshops" }}
+{{ $aw = where $aw "Params.categories" "intersect" (slice "active-workshops") }}
+{{ range first 999 $aw }}
+    <div class="mb3 pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    <div class="workshops-img">
+	    {{ if .Params.featured_image }}
+          <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}">
+        {{ end }}
+        {{ if .Params.featured_map }}
+          <iframe width="220" height="220" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ .Params.featured_map }}"></iframe><br/><small><a target="blank" href="https://www.openstreetmap.org/#map=13/33.4390/-88.7908">Show larger map</a></small>
+          {{ end }}
+    </div>
+    <div class="workshops-text">
+	    <h2 class="f3 near-black">
+	        {{ .Title }}
+	    </h2>	    
+	    <h4>Registration: {{ .Params.registration }}</h4>
+	    <h4>Location: {{ .Params.location }}</h4>
+	    <h4>Workshop dates: {{ .Params.workshop_dates }}</h4>
+	    <h4>Application deadline: {{ .Params.application_deadline }}</h4>
+	    <h4>Decision on application: {{ .Params.decision_on_application }}</h4>	
+	    <h4>{{ .Params.funding }}</h4>	
+	    <div class="workshops-summary">    	     	      
+			<p>{{ .Summary }}</p>
+			<div class="workshops-readmore readmore-button">Read more</div>
+	    </div>
+	    <div class="workshops-content">    	     	      
+			{{ .Content }}
+			<div class="workshops-readless readmore-button">Read less</div>
+	    </div>		    
+    </div>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    </div>
+  </div>
+<hr>
+{{end}}
+</div>
+
+  </article>
+{{ end }}
