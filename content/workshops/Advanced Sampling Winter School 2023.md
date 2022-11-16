@@ -2,9 +2,9 @@
 date: 2017-04-14T11:25:05-04:00
 featured_image: "icomse_logo_with_picture.png"
 title: "Advanced Sampling Winter School 2023"
-application_deadline: "November 15, 2022"
+application_deadline: "TBA, 2022"
 dates: "January 9th-13th, 2023"
-decision_on_application: "December 1, 2022"
+decision_on_application: "TBA"
 location: "Online"
 registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation"
