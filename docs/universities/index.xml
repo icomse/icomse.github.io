@@ -1,135 +1,162 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Universities on I-CoMSE</title>
-    <link>https://icomse.github.io/webtesticomse.github.io/universities/</link>
-    <description>Recent content in Universities on I-CoMSE</description>
+    <title>Universities on i-CoMSE</title>
+    <link>https://icomse.github.io/universities/</link>
+    <description>Recent content in Universities on i-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/webtesticomse.github.io/universities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/universities/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Boise State University</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/boise-state-university/</link>
+      <title>Boeing</title>
+      <link>https://icomse.github.io/universities/boeing/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/boise-state-university/</guid>
+      <guid>https://icomse.github.io/universities/boeing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boise State University</title>
+      <link>https://icomse.github.io/universities/boise-state-university/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://icomse.github.io/universities/boise-state-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Georgia Institute of Technology</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/georgia-institute-of-technology/</link>
+      <link>https://icomse.github.io/universities/georgia-institute-of-technology/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/georgia-institute-of-technology/</guid>
+      <guid>https://icomse.github.io/universities/georgia-institute-of-technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jackson State University</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/jackson-state-university/</link>
+      <link>https://icomse.github.io/universities/jackson-state-university/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/jackson-state-university/</guid>
+      <guid>https://icomse.github.io/universities/jackson-state-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Johns Hopkins University</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/johns-hopkins-university/</link>
+      <link>https://icomse.github.io/universities/johns-hopkins-university/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/johns-hopkins-university/</guid>
+      <guid>https://icomse.github.io/universities/johns-hopkins-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mississippi State University</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/mississippi-state-university/</link>
+      <link>https://icomse.github.io/universities/mississippi-state-university/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/mississippi-state-university/</guid>
+      <guid>https://icomse.github.io/universities/mississippi-state-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oklahoma State University</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/oklahoma-state-university/</link>
+      <link>https://icomse.github.io/universities/oklahoma-state-university/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/oklahoma-state-university/</guid>
+      <guid>https://icomse.github.io/universities/oklahoma-state-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacific Northwest National Laboratory</title>
+      <link>https://icomse.github.io/universities/pacific-northwest-national-laboratory/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://icomse.github.io/universities/pacific-northwest-national-laboratory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Pennsylvania State University</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/the-pennsylvania-state-university/</link>
+      <link>https://icomse.github.io/universities/the-pennsylvania-state-university/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/the-pennsylvania-state-university/</guid>
+      <guid>https://icomse.github.io/universities/the-pennsylvania-state-university/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The State University of New York at Buffalo</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/the-state-university-of-new-york-at-buffalo/</link>
+      <link>https://icomse.github.io/universities/the-state-university-of-new-york-at-buffalo/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/the-state-university-of-new-york-at-buffalo/</guid>
+      <guid>https://icomse.github.io/universities/the-state-university-of-new-york-at-buffalo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Barcelona</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/university-of-barcelona/</link>
+      <link>https://icomse.github.io/universities/university-of-barcelona/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/university-of-barcelona/</guid>
+      <guid>https://icomse.github.io/universities/university-of-barcelona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Colorado Boulder</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/university-of-colorado-boulder/</link>
+      <link>https://icomse.github.io/universities/university-of-colorado-boulder/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/university-of-colorado-boulder/</guid>
+      <guid>https://icomse.github.io/universities/university-of-colorado-boulder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Michigan</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/university-of-michigan/</link>
+      <link>https://icomse.github.io/universities/university-of-michigan/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/university-of-michigan/</guid>
+      <guid>https://icomse.github.io/universities/university-of-michigan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Minnesota</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/university-of-minnesota/</link>
+      <link>https://icomse.github.io/universities/university-of-minnesota/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/university-of-minnesota/</guid>
+      <guid>https://icomse.github.io/universities/university-of-minnesota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Notre Dame</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/university-of-notre-dame/</link>
+      <link>https://icomse.github.io/universities/university-of-notre-dame/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/university-of-notre-dame/</guid>
+      <guid>https://icomse.github.io/universities/university-of-notre-dame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Southern Mississippi</title>
+      <link>https://icomse.github.io/universities/university-of-southern-mississippi/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://icomse.github.io/universities/university-of-southern-mississippi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of Washington</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/universities/university-of-washington/</link>
+      <link>https://icomse.github.io/universities/university-of-washington/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/universities/university-of-washington/</guid>
+      <guid>https://icomse.github.io/universities/university-of-washington/</guid>
       <description></description>
     </item>
     

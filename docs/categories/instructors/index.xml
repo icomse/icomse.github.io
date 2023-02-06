@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Instructors on I-CoMSE</title>
-    <link>https://icomse.github.io/webtesticomse.github.io/categories/instructors/</link>
-    <description>Recent content in Instructors on I-CoMSE</description>
+    <title>Instructors on i-CoMSE</title>
+    <link>https://icomse.github.io/categories/instructors/</link>
+    <description>Recent content in Instructors on i-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/webtesticomse.github.io/categories/instructors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/categories/instructors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Andrew J. Medford</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/andrew-j-medford/</link>
+      <title>Janik, Michael</title>
+      <link>https://icomse.github.io/team/michael-janik/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/andrew-j-medford/</guid>
-      <description>Assistant Professor
-School of Chemical and Biomolecular Engineering</description>
+      <guid>https://icomse.github.io/team/michael-janik/</guid>
+      <description>Professor
+Department of Chemical Engineering</description>
     </item>
     
     <item>
-      <title>Michael Janik</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/michael-janik/</link>
+      <title>Medford, Andrew J.</title>
+      <link>https://icomse.github.io/team/andrew-j-medford/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/michael-janik/</guid>
-      <description>Professor
-Department of Chemical Engineering</description>
+      <guid>https://icomse.github.io/team/andrew-j-medford/</guid>
+      <description>Assistant Professor
+School of Chemical and Biomolecular Engineering</description>
     </item>
     
   </channel>
