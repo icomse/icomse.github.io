@@ -1,91 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>This workshop is supported by funding from National Science Foundation on I-CoMSE</title>
-    <link>https://icomse.github.io/webtesticomse.github.io/funding/this-workshop-is-supported-by-funding-from-national-science-foundation/</link>
-    <description>Recent content in This workshop is supported by funding from National Science Foundation on I-CoMSE</description>
+    <title>This workshop is supported by funding from National Science Foundation on i-CoMSE</title>
+    <link>https://icomse.github.io/funding/this-workshop-is-supported-by-funding-from-national-science-foundation/</link>
+    <description>Recent content in This workshop is supported by funding from National Science Foundation on i-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/webtesticomse.github.io/funding/this-workshop-is-supported-by-funding-from-national-science-foundation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/funding/this-workshop-is-supported-by-funding-from-national-science-foundation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Autumn school 1</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-1/</link>
+      <title>Advanced Sampling Winter School 2023</title>
+      <link>https://icomse.github.io/workshops/advanced-sampling-winter-school-2023/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-1/</guid>
-      <description>(Past Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+      <guid>https://icomse.github.io/workshops/advanced-sampling-winter-school-2023/</guid>
+      <description>Description: This workshop will provide an overview of modern advanced sampling routines, including replica exchange, umbrella sampling, metadynamics, and path sampling ethods. It will have a number of hands-on exercises running GROMACS on national supercomputing resources, and will run for 4 hours each day.
+Eligibility: Graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty. The expectation is that students will have some experience in molecular simulation.</description>
     </item>
     
     <item>
-      <title>Autumn school 2</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-2/</link>
+      <title>DFT Summer School</title>
+      <link>https://icomse.github.io/workshops/dft-summer-school-2022/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-2/</guid>
-      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+      <guid>https://icomse.github.io/workshops/dft-summer-school-2022/</guid>
+      <description>Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions. The open-source software CP2K will be used for the hands-on tutorial sessions.</description>
     </item>
     
     <item>
-      <title>Autumn school 3</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-3/</link>
+      <title>MDMC Summer School 2022</title>
+      <link>https://icomse.github.io/workshops/mdmc-summer-school-2022/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-3/</guid>
-      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
-    </item>
-    
-    <item>
-      <title>Autumn school 4</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-4/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-4/</guid>
-      <description>(Future Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
-    </item>
-    
-    <item>
-      <title>Autumn school 5</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-5/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-5/</guid>
-      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
-    </item>
-    
-    <item>
-      <title>Autumn school 6</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-6/</guid>
-      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
-    </item>
-    
-    <item>
-      <title>Autumn school 7</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-7/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-7/</guid>
-      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
-    </item>
-    
-    <item>
-      <title>Autumn school 8</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-8/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-8/</guid>
-      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
-    </item>
-    
-    <item>
-      <title>Autumn school 9</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-9/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/autumn-school-9/</guid>
-      <description>(Active Workshops) Density functional theory (DFT) has become an essential tool for modeling chemical reactions due to its relatively low computational cost and favorable scaling with the system size. This course will present a theoretical and practical introduction to computational techniques for studying chemical catalysis and kinetics. Participants will learn practical aspects of DFT calculations and advanced topics such as the effect of solvation on chemical reactions.</description>
+      <guid>https://icomse.github.io/workshops/mdmc-summer-school-2022/</guid>
+      <description>Description: Monte Carlo (MC) and molecular dynamics (MD) simulation techniques have become essential tools in understanding thermophysical and phase equilibria properties of systems ranging from organic liquids to ionic liquids, polymers, biomolecules, solutions, zeolites, metal organic frameworks and covalent organic frameworks, etc. These techniques are based on statistical mechanics principles and enable one to access length scales spanning tens of nanometers and sample timescales up to hundreds of nanoseconds.</description>
     </item>
     
   </channel>

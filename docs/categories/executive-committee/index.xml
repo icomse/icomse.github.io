@@ -1,79 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Executive Committee on I-CoMSE</title>
-    <link>https://icomse.github.io/webtesticomse.github.io/categories/executive-committee/</link>
-    <description>Recent content in Executive Committee on I-CoMSE</description>
+    <title>Executive Committee on i-CoMSE</title>
+    <link>https://icomse.github.io/categories/executive-committee/</link>
+    <description>Recent content in Executive Committee on i-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/webtesticomse.github.io/categories/executive-committee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://icomse.github.io/categories/executive-committee/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eric Jankowski</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/eric-jankowski/</link>
+      <title>Jankowski, Eric</title>
+      <link>https://icomse.github.io/team/eric-jankowski/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/eric-jankowski/</guid>
+      <guid>https://icomse.github.io/team/eric-jankowski/</guid>
       <description>Associate Professor
 Micron School of Materials Science and Engineering</description>
     </item>
     
     <item>
-      <title>Jindal Shah</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/jindal-shah/</link>
+      <title>Rai, Neeraj</title>
+      <link>https://icomse.github.io/team/neeraj-rai/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/jindal-shah/</guid>
-      <description>Associate Professor &amp;amp; Anadarko Petroleum Chair
-School of Chemical Engineering</description>
-    </item>
-    
-    <item>
-      <title>Michael Shirts</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/michael-shirts/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/michael-shirts/</guid>
-      <description>Professor
-Department of Chemical and Biological Engineering</description>
-    </item>
-    
-    <item>
-      <title>Neeraj Rai</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/neeraj-rai/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/neeraj-rai/</guid>
+      <guid>https://icomse.github.io/team/neeraj-rai/</guid>
       <description>Associate Professor &amp;amp; Ergon, Inc.
 Distinguished Professor
 Dave C. Swalm School of Chemical Engineering</description>
     </item>
     
     <item>
-      <title>Neeraj Rai</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/neeraj-rai/</link>
+      <title>Sarupria, Sapna</title>
+      <link>https://icomse.github.io/team/sapna-sarupria/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/neeraj-rai/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
-    </item>
-    
-    <item>
-      <title>Neeraj Rai 2</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/workshops/neeraj-rai-2/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/workshops/neeraj-rai-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue massa, sagittis in ornare ornare, ultrices id eros. Phasellus luctus gravida purus, vel posuere ante hendrerit sit amet. In eu magna facilisis, tincidunt dui ut, sollicitudin lectus. Proin auctor turpis a erat convallis, quis condimentum ex ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis semper tincidunt quam vel malesuada. Vivamus placerat lacus lectus, eget rhoncus nibh maximus vel.</description>
-    </item>
-    
-    <item>
-      <title>Sapna Sarupria</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/team/sapna-sarupria/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/team/sapna-sarupria/</guid>
+      <guid>https://icomse.github.io/team/sapna-sarupria/</guid>
       <description>Associate Professor
 Department of Chemistry</description>
+    </item>
+    
+    <item>
+      <title>Shah, Jindal</title>
+      <link>https://icomse.github.io/team/jindal-shah/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://icomse.github.io/team/jindal-shah/</guid>
+      <description>Associate Professor &amp;amp; Anadarko Petroleum Chair
+School of Chemical Engineering</description>
+    </item>
+    
+    <item>
+      <title>Shirts, Michael</title>
+      <link>https://icomse.github.io/team/michael-shirts/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://icomse.github.io/team/michael-shirts/</guid>
+      <description>Professor
+Department of Chemical and Biological Engineering</description>
     </item>
     
   </channel>

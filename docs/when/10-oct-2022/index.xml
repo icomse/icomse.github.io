@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>10 Oct 2022 on I-CoMSE</title>
-    <link>https://icomse.github.io/webtesticomse.github.io/when/10-oct-2022/</link>
-    <description>Recent content in 10 Oct 2022 on I-CoMSE</description>
+    <title>10 Oct 2022 on i-CoMSE</title>
+    <link>https://icomse.github.io/when/10-oct-2022/</link>
+    <description>Recent content in 10 Oct 2022 on i-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jul 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://icomse.github.io/webtesticomse.github.io/when/10-oct-2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jul 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://icomse.github.io/when/10-oct-2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applications are open for MD/MC Summer School</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/post/chapter-1/</link>
+      <link>https://icomse.github.io/post/chapter-1/</link>
       <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/post/chapter-1/</guid>
+      <guid>https://icomse.github.io/post/chapter-1/</guid>
       <description>Applications are now open for the MD/MC Summer school at Oklahoma State University! Classical molecular dynamics and molecular modeling are essential modeling tools for materials including proteins, polymers, and ionic liquids, in applications ranging from pharmaceutical development to materials science. This course will present a theoretical and practical introduction to classical statistical mechanics and molecular modeling on high-performance computers. The open source software GROMACS and LAMMPS will be used for hands-on tutorial sessions.</description>
     </item>
     

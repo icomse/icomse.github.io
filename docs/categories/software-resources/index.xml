@@ -1,63 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Resources on I-CoMSE</title>
-    <link>https://icomse.github.io/webtesticomse.github.io/categories/software-resources/</link>
-    <description>Recent content in Software Resources on I-CoMSE</description>
+    <title>Software Resources on i-CoMSE</title>
+    <link>https://icomse.github.io/categories/software-resources/</link>
+    <description>Recent content in Software Resources on i-CoMSE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://icomse.github.io/webtesticomse.github.io/categories/software-resources/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://icomse.github.io/categories/software-resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChemCompute</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/other-materials/software-resources/</link>
+      <link>https://icomse.github.io/other-resources-posts/software-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/other-materials/software-resources/</guid>
+      <guid>https://icomse.github.io/other-resources-posts/software-resources/</guid>
       <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
     </item>
     
     <item>
-      <title>ChemCompute</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/our-materials/software-resources/</link>
+      <title>Deep Learning for Molecules and Materials</title>
+      <link>https://icomse.github.io/other-resources-posts/software-resources-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/our-materials/software-resources/</guid>
-      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+      <guid>https://icomse.github.io/other-resources-posts/software-resources-4/</guid>
+      <description>Andrew White&amp;rsquo;s popular interactive online book for on data sccience and machine learning for handling molecules.</description>
     </item>
     
     <item>
-      <title>ChemCompute 2</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/other-materials/software-resources-2/</link>
+      <title>MolSSI Education</title>
+      <link>https://icomse.github.io/other-resources-posts/software-resources-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/other-materials/software-resources-2/</guid>
-      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+      <guid>https://icomse.github.io/other-resources-posts/software-resources-2/</guid>
+      <description>MolSSI offers a number of education workshops for students and post docs in the computational molecular sciences. These workshops cover a range of material, from basic scripting to writing programs which use MolSSI Best Practices.</description>
     </item>
     
     <item>
-      <title>ChemCompute 2</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/our-materials/software-resources-2/</link>
+      <title>Software Carpemtry</title>
+      <link>https://icomse.github.io/other-resources-posts/software-resources-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://icomse.github.io/webtesticomse.github.io/our-materials/software-resources-2/</guid>
-      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
-    </item>
-    
-    <item>
-      <title>ChemCompute 3</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/other-materials/software-resources-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/other-materials/software-resources-3/</guid>
-      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
-    </item>
-    
-    <item>
-      <title>ChemCompute 3</title>
-      <link>https://icomse.github.io/webtesticomse.github.io/our-materials/software-resources-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://icomse.github.io/webtesticomse.github.io/our-materials/software-resources-3/</guid>
-      <description>A resources allowing access to computational chemistry software for undergraduate teaching and research without needing a local installation.</description>
+      <guid>https://icomse.github.io/other-resources-posts/software-resources-3/</guid>
+      <description>Software Carpentry is an organization has been teaching researchers the computing skills they need to get more done in less time and with less pain, including using Unix, Python, R, and Git.</description>
     </item>
     
   </channel>
