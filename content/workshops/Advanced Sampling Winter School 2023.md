@@ -2,9 +2,9 @@
 date: 2023-02-06T11:25:05-04:00
 featured_image: "icomse_logo_with_picture.png"
 title: "Advanced Sampling Virtual School 2023"
-application_deadline: "???, 2023"
+application_deadline: "2023"
 dates: "March 20th-24th, 2023"
-decision_on_application: "???, 2023"
+decision_on_application: "2023"
 location: "Online"
 registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation"
@@ -26,7 +26,7 @@ Preliminary Schedule:
 - Thursday, March 23rd
   - Path Sampling
 - Friday, March 24th
-  - Path Sampling.
+  - Path Sampling
 
 **Eligibility:** Graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty. The expectation is that students will have some experience in molecular simulation. 
 
