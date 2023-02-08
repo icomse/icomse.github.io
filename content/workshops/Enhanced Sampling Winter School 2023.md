@@ -19,15 +19,16 @@ Preliminary Schedule:
   - Expanded ensemble simulations
   - Diversity, equity and inclusion in computational science
 - Tuesday, March 21st
-  - Potentials of Mean Force 
+  - Potentials of mean force 
   - Metadynamics 
 - Wednesday, March 22nd
   - Running coupled simulations on HPC resources
-  - Temperature and Hamiltonian Replica exchange simulations
+  - Temperature and Hamiltonian replica exchange simulations
 - Thursday, March 23rd
   - Transition path sampling
-  - Forward flux sampling
+  - Transition interface sampling
 - Friday, March 24th
+  - Forward flux sampling 
   - Exploring combinations and applications
   - Wrapup
 
