@@ -6,7 +6,7 @@ application_deadline: "February 24th, 2023"
 dates: "March 20th-24th, 2023"
 decision_on_application: "March 6th, 2023"
 location: "Online"
-registration: "https://forms.gle/LwJv5qHdA57fwJmN7"
+registration: "Open (see below)"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
 ---
@@ -14,7 +14,7 @@ categories: ["active-workshops"]
 **Description**: This workshop will provide an overview of modern enhanced sampling algorithms, including replica exchange, umbrella sampling, metadynamics, and path sampling methods.  It will feature of mix of lectures and hands-on exercises running GROMACS on national supercomputing resources, and will run for 3 hours each day. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. The session will run for five days, 3-6 EDT / 2-5 CDT / 1-4 MDT / 12-3 PDT.  
 
 **Registration**:
-The application for the workshop is at: https://forms.gle/LwJv5qHdA57fwJmN7
+The application for the workshop is at: https://forms.gle/LwJv5qHdA57fwJmN7.
 
 **Preliminary Schedule**
 - Monday, March 20th
