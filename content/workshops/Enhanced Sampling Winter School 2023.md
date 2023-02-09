@@ -12,8 +12,8 @@ categories: ["active-workshops"]
 
 **Description**: This workshop will provide an overview of modern enhanced sampling algorithms, including replica exchange, umbrella sampling, metadynamics, and path sampling methods.  It will feature of mix of lectures and hands-on exercises running GROMACS on national supercomputing resources, and will run for 3 hours each day. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. The session will run for five days, 3-6 EDT / 2-5 CDT / 1-4 MDT / 12-3 PDT.  
 
-**Registration**
-You can apply for the workshop at https://forms.gle/LwJv5qHdA57fwJmN7
+**Registration**:
+The application for the workshop is at: https://forms.gle/LwJv5qHdA57fwJmN7
 
 **Preliminary Schedule**
 - Monday, March 20th
