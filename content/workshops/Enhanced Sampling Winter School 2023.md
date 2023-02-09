@@ -2,11 +2,11 @@
 date: 2013-02-06T11:25:05-04:00
 featured_image: "icomse_logo_with_picture.png"
 title: "Enhanced Sampling Virtual School 2023"
-application_deadline: "2023"
+application_deadline: "February 24th, 2023"
 dates: "March 20th-24th, 2023"
-decision_on_application: "2023"
+decision_on_application: "March 6th, 2023"
 location: "Online"
-registration: "[https://forms.gle/LwJv5qHdA57fwJmN7]"
+registration: "[Click here](https://forms.gle/LwJv5qHdA57fwJmN7)"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
 ---
