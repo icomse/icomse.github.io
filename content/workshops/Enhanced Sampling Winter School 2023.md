@@ -35,7 +35,7 @@ The application for the workshop is at: https://forms.gle/LwJv5qHdA57fwJmN7.
   - Exploring combinations and applications
   - Wrapup
 
-**Eligibility:** Graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty. The expectation is that students will have some experience in molecular simulation and Python scripting. 
+**Eligibility:** Graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty. The expectation is that students will have some experience in molecular simulation and Python scripting. Attendees must be at a U.S. institution.
 
 **Registration Fee:** None 
 
