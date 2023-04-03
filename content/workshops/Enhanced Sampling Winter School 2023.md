@@ -6,7 +6,7 @@ application_deadline: "Feb 24, 2023"
 workshop_dates: "Mar 20-24, 2023"
 decision_on_application: "Mar 6, 2023"
 location: "Online"
-registration: "Open (see below)"
+registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["past-workshops"]
 ---
