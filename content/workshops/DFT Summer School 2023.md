@@ -1,6 +1,6 @@
 ---
-date: 2023-04-03T11:25:05-04:00
-featured_image: "icomse_logo_with_picture.png"
+date: 2023-04-04T11:25:05-04:00
+featured_image: "boisestate-stackedlogo-2color-rgb.jpg"
 title: "Fundamentals and Applications of Density Functional Theory"
 application_deadline: "Apr 14, 2023"
 workshop_dates: "Jun 4-9, 2023"
