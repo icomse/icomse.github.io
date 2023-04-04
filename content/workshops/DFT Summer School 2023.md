@@ -46,6 +46,8 @@ associated with an US based educational institution, national lab, or industry.
 
 **Registration Fee:** None 
 
+**Financial support:** Financial support is available to cover housing (in university dormitory), meals, and parking cost for all non-local participants. A limited number of travel stipends (up to $500) are available to help broaden participation.
+
 **Expected number of participants:** 40
 
 **Equipment Needed**: Students will need a laptop and have Jupyter notebooks installed. Computing resources for performing 
