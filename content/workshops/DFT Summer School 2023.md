@@ -19,7 +19,7 @@ Carpentry style, with approximately equal time divided between lectures and hand
 **Registration:**
 The application for the workshop is [can be accessed here](https://docs.google.com/forms/d/16oWWYw9QXlGNnWaKveV81gNWUsqrxCpqUevlrlmfKtU/edit)
 
-** Preliminary Schedule:**
+**Preliminary Schedule:**
 - Monday, June 5th 
   - Fundamentals of electronic structure theory 
   - Elements of density functional theory (functional hierarchy) 
