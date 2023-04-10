@@ -3,7 +3,7 @@ date: 2023-04-04T11:25:05-04:00
 featured_image: "boisestate-stackedlogo-2color-rgb.jpg"
 title: "Fundamentals and Applications of Density Functional Theory"
 application_deadline: "Apr 14, 2023"
-workshop_dates: "Jun 4-9, 2023"
+workshop_dates: "Jun 5-9, 2023"
 decision_on_application: "Apr 21, 2023"
 location: "Boise State University"
 registration: "Open"
