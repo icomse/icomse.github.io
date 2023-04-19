@@ -11,4 +11,4 @@ contact_info: "rose.cersonsky@wisc.edu"
 ---
 
 Assistant Professor\
-School of Chemical and Biomolecular Engineering
+Department of Chemical and Biological Engineering
