@@ -7,7 +7,6 @@ last_name: "Pfaendtner"
 universities: "University of Washington"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-ph: "+1 206 616 8128"
 contact_info: "jpfaendt@u.washington.edu"
 ---
 
