@@ -7,7 +7,6 @@ last_name: "Pagonabarraga"
 universities: "University of Barcelona"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-ph: "+34 93 402 11 57"
 contact_info: "ipagonabarraga@ub.edu"
 ---
 
