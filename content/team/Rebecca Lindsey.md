@@ -7,7 +7,6 @@ first_name: "Rebecca"
 last_name: "Lindsey"
 categories: [ "Advisory Board" ]
 contact_info: "rklinds@umich.edu"
-ph: "+1 734 763 5142"
 ---
 
 Assistant Professor\
