@@ -7,7 +7,6 @@ last_name: "Maginn"
 universities: "University of Notre Dame"
 categories: [ "Advisory Board" ]
 contact_info: "ed@nd.edu"
-ph: "+1 574 631 5687"
 ---
 
 Keough-Hesburgh Professor of Engineering\
