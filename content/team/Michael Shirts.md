@@ -8,7 +8,6 @@ universities: "University of Colorado Boulder"
 #roles: "Executive Committee"
 categories: [ "Executive Committee" ]
 contact_info: "michael.shirts@i-comse.org"
-ph: "+1 303 735 7860"
 ---
 
 Professor\
