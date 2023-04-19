@@ -7,7 +7,6 @@ last_name: "Jankowski"
 universities: "Boise State University"
 categories: [ "Executive Committee" ]
 contact_info: "eric@i-comse.org"
-ph: "+1 208 426 5681"
 ---
 Associate Professor\
 Micron School of Materials Science and Engineering
