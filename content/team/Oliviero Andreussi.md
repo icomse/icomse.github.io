@@ -1,7 +1,7 @@
 ---
 date: 2023-04-18T11:25:05-04:00
-featured_image: "Olivero_Andreussi.jpg"
-title: "Andreussi, Olivero"
+featured_image: "Oliviero_Andreussi.jpg"
+title: "Andreussi, Oliviero"
 first_name: "Oliviero"
 last_name: "Andreussi"
 universities: "Boise State University"
