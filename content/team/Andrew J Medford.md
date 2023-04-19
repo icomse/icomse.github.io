@@ -8,7 +8,6 @@ universities: "Georgia Institute of Technology"
 roles: "DFT Summer School 2022"
 categories: [ "Instructors" ]
 contact_info: "ajm@gatech.edu"
-ph: "+1 404 385 5531"
 ---
 
 Assistant Professor\
