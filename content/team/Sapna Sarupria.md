@@ -7,7 +7,6 @@ last_name: "Sarupria"
 universities: "University of Minnesota"
 categories: [ "Executive Committee" ]
 contact_info: "sarupria@i-comse.org"
-ph: "+1 612 624 8299"
 ---
 
 Associate Professor\
