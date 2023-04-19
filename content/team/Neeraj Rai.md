@@ -8,7 +8,6 @@ universities: "Mississippi State University"
 #roles: "Executive Committee"
 categories: ["Executive Committee"]
 contact_info: "neeraj@i-comse.org"
-ph: "+1 662 325 0790"
 ---
 
 Associate Professor & Ergon, Inc.\
