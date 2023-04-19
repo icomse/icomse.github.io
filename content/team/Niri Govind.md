@@ -8,7 +8,6 @@ universities: "Pacific Northwest National Laboratory"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
 contact_info: "niri.govind@pnnl.gov"
-ph: "+1 509 371 6160"
 ---
 
 Chief Scientist, Physicist\
