@@ -7,7 +7,6 @@ last_name: "Siepmann"
 universities: "University of Minnesota"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-ph: "+1 612 624 1844"
 contact_info: "siepmann@umn.edu"
 ---
 
