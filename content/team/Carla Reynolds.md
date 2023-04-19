@@ -7,7 +7,6 @@ last_name: "Reynolds"
 universities: "Boeing"
 categories: [ "Advisory Board" ]
 contact_info: "Carla.E.Reynolds@boeing.com"
-ph: "+1 314 330 5177"
 ---
 
 Associate Technical Fellow\
