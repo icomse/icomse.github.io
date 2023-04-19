@@ -7,7 +7,6 @@ last_name: "Hill"
 universities: "Jackson State University"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-ph: "+1 601 979 1699"
 contact_info: "glakeh@icnanotox.org"
 ---
 
