@@ -8,7 +8,6 @@ universities: "The Pennsylvania State University"
 roles: "DFT Summer School 2022"
 categories: [ "Instructors" ]
 contact_info: "mjj13@psu.edu"
-ph: "+1 814 863 9366"
 ---
 
 Professor\
