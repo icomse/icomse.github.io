@@ -7,7 +7,7 @@ last_name: "Herbert"
 universities: "Ohio State University"
 roles: "Instructor, 4th i-CoMSE Workshop (Boise State, 2023)"
 categories: [ "Instructors" ]
-contact_info: "lanli@boisestate.edu"
+contact_info: "herbert.44@osu.edu"
 ---
 
 Professor\
