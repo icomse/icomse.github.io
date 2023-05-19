@@ -1,7 +1,7 @@
 ---
 date: 2023-05-23T11:25:05-04:00
 featured_image: "University-of-Minnesota-Logo.png"
-title: "Machine Learning for Molecular Science"
+title: "The 5th i-CoMSE workshop: Machine Learning for Molecular Science"
 application_deadline: "May 29, 2023"
 workshop_dates: "July 10-14, 2023"
 decision_on_application: "June 10, 2023"
