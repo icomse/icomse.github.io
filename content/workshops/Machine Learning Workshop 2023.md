@@ -1,7 +1,7 @@
 ---
 date: 2023-05-23T11:25:05-04:00
 featured_image: "University-of-Minnesota-Logo.png"
-title: "The 5th i-CoMSE workshop: Machine Learning for Molecular Science"
+title: "The 5th i-CoMSE Workshop: Machine Learning for Molecular Science"
 application_deadline: "May 29, 2023"
 workshop_dates: "July 10-14, 2023"
 decision_on_application: "June 10, 2023"
@@ -15,12 +15,9 @@ categories: ["active-workshops"]
 
 **Application**: [Click here](https://forms.gle/W2sffJjQmYgFJEfG9) for application form for this workshop.
 
-
-
 **Dormitory Check-In**: July 9th, 2023 (starts at 1 pm) and Check out: July 14th 2023 (by noon) 
 
 **Tentative  schedule**:
-
 - Monday  July 10th, 2023
   - Feature representation
   - Dimensionality reduction
