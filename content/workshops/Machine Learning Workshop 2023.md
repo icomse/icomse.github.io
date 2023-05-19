@@ -11,20 +11,11 @@ funding: "This workshop is supported by funding from National Science Foundation
 categories: ["active-workshops"]
 ---
 
-This workshop is supported by funding from the National Science Foundation Office of Cyberinfrastructure.
+**Description**: This workshop will provide an overview of machine learning tools applied to study molecular systems with a focus on computational molecular science. It will feature a mix of lectures and hands-on exercises running machine learning algorithms with molecular simulations on national supercomputing resources. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. Sessions will be taught in Software Carpentry style, with approximately equal time divided between lectures and hands-on exercises running and analyzing simulations.
 
 **Application**: [Click here](https://forms.gle/W2sffJjQmYgFJEfG9) for application form for this workshop.
 
-**Description**: This workshop will provide an overview of machine learning tools applied to study molecular systems with a focus on computational molecular science. It will feature a mix of lectures and hands-on exercises running machine learning algorithms with molecular simulations on national supercomputing resources. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. Sessions will be taught in Software Carpentry style, with approximately equal time divided between lectures and hands-on exercises running and analyzing simulations.
 
-**Organizers/Instructors**:
-  - Chris Bartel, University of Minnesota Twin Cities
-  - Rose Cersonsky, University of Wisconsin-Madison
-  - Eric Jankowski, Boise State University
-  - Neeraj Rai, Mississippi State University
-  - Sapna Sarupria, University of Minnesota Twin Cities
-  - Jindal Shah, Oklahoma State University
-  - Michael Shirts, University of Colorado, Boulder
 
 **Dormitory Check-In**: July 9th, 2023 (starts at 1 pm) and Check out: July 14th 2023 (by noon) 
 
@@ -53,7 +44,7 @@ This workshop is supported by funding from the National Science Foundation Offic
   - Generative models and inverse design
   - General Q&A
   - Wrap up
-
+  
 **Eligibility**: Participation is limited to graduate students, undergraduate students (with junior or senior standing), postdoctoral, early career faculty, with some experience in molecular simulations and Python scripting. Applicants must be associated with an US based educational institution, national lab, or industry.
 
 **Registration Fee**: None for academic participants
@@ -63,3 +54,12 @@ This workshop is supported by funding from the National Science Foundation Offic
 **Expected number of participants**: 40
 
 **Equipment needed**: Students will need a laptop and have Jupyter notebooks installed. Computing resources for performing exercises will be provided in Bridges-2 at PSC.
+
+**Organizers/Instructors**:
+  - Chris Bartel, University of Minnesota Twin Cities
+  - Rose Cersonsky, University of Wisconsin-Madison
+  - Eric Jankowski, Boise State University
+  - Neeraj Rai, Mississippi State University
+  - Sapna Sarupria, University of Minnesota Twin Cities
+  - Jindal Shah, Oklahoma State University
+  - Michael Shirts, University of Colorado, Boulder
