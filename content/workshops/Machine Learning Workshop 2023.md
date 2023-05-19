@@ -8,7 +8,7 @@ decision_on_application: "June 10, 2023"
 location: "University of Minnesota Twin Cities, Minneapolis, MN"
 registration: "Open"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
-categories: ["active-workshops"]
+categories: ["future-workshops"]
 ---
 
 **Description**: This workshop will provide an overview of machine learning tools applied to study molecular systems with a focus on computational molecular science. It will feature a mix of lectures and hands-on exercises running machine learning algorithms with molecular simulations on national supercomputing resources. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. Sessions will be taught in Software Carpentry style, with approximately equal time divided between lectures and hands-on exercises running and analyzing simulations.
