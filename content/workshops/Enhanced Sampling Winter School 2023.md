@@ -1,5 +1,5 @@
 ---
-date: 2013-02-06T11:25:05-04:00
+date: 2023-02-06T11:25:05-04:00
 featured_image: "icomse_logo_with_picture.png"
 title: "Enhanced Sampling Virtual School 2023"
 application_deadline: "Feb 24, 2023"
