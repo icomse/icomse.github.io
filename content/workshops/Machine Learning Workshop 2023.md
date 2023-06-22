@@ -6,7 +6,7 @@ application_deadline: "May 29, 2023"
 workshop_dates: "July 10-14, 2023"
 decision_on_application: "June 10, 2023"
 location: "University of Minnesota Twin Cities"
-registration: "Open"
+registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
 ---
