@@ -6,7 +6,7 @@ application_deadline: "Apr 14, 2023"
 workshop_dates: "Jun 5-9, 2023"
 decision_on_application: "Apr 21, 2023"
 location: "Boise State University"
-registration: "Open"
+registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
 ---
