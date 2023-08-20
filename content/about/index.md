@@ -4,7 +4,7 @@ background: "false"
 menu: "true"
 ---
 
-i-CoMSE is focused on serving the needs of the community engaged in fundamental research in computational molecular science and engineering (CMSE) by:
+i-CoMSE (the Institute of Computational Molecular Science Education) is focused on serving the needs of the community engaged in fundamental research in computational molecular science and engineering (CMSE) by:
 - Providing an ecosystem for nurturing and training the next generation of computational molecular scientists and engineers.
 - Increasing availability and accessibility of well-curated education materials and content in computational molecular modeling, and content, both through workshops and online resources.
 - Serving as a node for engagement with the relevant stakeholders and promoting fundamental research in CMSE.
