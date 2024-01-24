@@ -8,7 +8,7 @@ decision_on_application: "Apr 21, 2023"
 location: "Boise State University"
 registration: "Closed"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
-categories: ["active-workshops"]
+categories: ["past-workshops"]
 ---
 
 **Description:** This workshop will provide an overview of density functional theory and its applications in chemical and materials 
