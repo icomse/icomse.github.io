@@ -22,16 +22,14 @@ The application for the workshop is at: https://forms.gle/rzR5aJ5cPhFraQ4i6.
   - Expanded ensemble simulations
   - Diversity, equity and inclusion in computational science
 - Tuesday, February 13th
-  - Potentials of mean force 
   - Metadynamics 
 - Wednesday, February 14th
   - Running coupled simulations on HPC resources
   - Temperature and Hamiltonian replica exchange simulations
 - Thursday, February 15th
   - Transition path sampling
-  - Transition interface sampling
-- Friday, February 16th
   - Forward flux sampling 
+- Friday, February 16th
   - Exploring combinations and applications
   - Wrapup
 
