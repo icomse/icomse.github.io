@@ -1,16 +1,14 @@
 ---
 date: 2021-07-12T11:14:48-04:00
 when: "10 Oct 2022"
-featured_image: "/images/osu.jpg"
+featured_image: "/images/icomse_logo_with_picture.png"
 background: "false"
 menu: "true"
-title: "Applications are open for MD/MC Summer School"
+title: "Applications are open for virtual worskshop on enhanced sampling"
 ---
-{{< img src="osu.jpg" title="Institute of Computational Molecular Science Education" >}}
+{{< img src="icomse_logo_with_picture.png" title="Institute of Computational Molecular Science Education" >}}
 
-Applications are now open for the MD/MC Summer school at Oklahoma State University!  Classical molecular dynamics and molecular modeling are essential modeling tools for materials including proteins, polymers, and ionic liquids, in applications ranging from pharmaceutical development to materials science.  This course will present a theoretical and practical introduction to classical statistical mechanics and molecular modeling on high-performance computers. The open source software GROMACS and LAMMPS  will be used for hands-on tutorial sessions.
-  
-  
+Applications are now open for the virtual workshop for enhanced sampling. Enhanced sampling techniques are becoming essential tools for simulating proteins, polymers, other materials ionic liquids, in applications ranging from pharmaceutical development to materials science.  This course will present an overview of fundamentals of enhanced sampling techniques, both for thermodynamics and kinetics, and practical introductions to methods PLUMED and GROMACS on high-performance computers. 
   
 **Eligibility**
 
@@ -19,9 +17,7 @@ Applications are now open for the MD/MC Summer school at Oklahoma State Universi
 - Postdoctoral
 - Early career faculty
 
-**Financial Aid**
+**Cost**
 
-Covers housing (in a university dormitory), meals and parking costs for all non-local participants. A limited number of travel subsidies are available.
-
-For more information and application information and to apply online, visit TBA.
+The workshop is free to registrants, but spots are limited. Visit https://www.i-comse.org/workshops/ for registration information.
 
