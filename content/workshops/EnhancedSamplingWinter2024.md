@@ -11,7 +11,7 @@ funding: "This workshop is supported by funding from National Science Foundation
 categories: ["active-workshops"]
 ---
 
-**Description**: This workshop will provide an overview of modern enhanced sampling algorithms, including replica exchange, umbrella sampling, metadynamics, and path sampling methods.  It will feature of mix of lectures and hands-on exercises running GROMACS on national supercomputing resources, and will run for 3 hours each day. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. The session will run for five days, 3-6 EDT / 2-5 CDT / 1-4 MDT / 12-3 PDT.  Note that the workshop will be similar (though not exactly the same) as last years' workshop, whose material is posted here fir reference: https://github.com/icomse/3rd_workshop_advanced_sampling
+**Description**: This workshop will provide an overview of modern enhanced sampling algorithms, including replica exchange, umbrella sampling, metadynamics, and path sampling methods.  It will feature of mix of lectures and hands-on exercises running GROMACS on national supercomputing resources, and will run for 3 hours each day. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. The session will run for five days, 3-6 EDT / 2-5 CDT / 1-4 MDT / 12-3 PDT.  Note that the workshop will be similar (though not exactly the same) as last years' workshop, whose material is posted here for reference: https://github.com/icomse/3rd_workshop_advanced_sampling
 
 **Registration**:
 The application for the workshop is at: https://forms.gle/rzR5aJ5cPhFraQ4i6.
