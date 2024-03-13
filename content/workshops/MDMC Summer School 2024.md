@@ -1,7 +1,7 @@
 ---
 date: 2024-01-23T11:25:05-04:00
 featured_image: "boisestate-stackedlogo-2color-rgb.jpg"
-title: "MDMC Summer School 2024"
+title: "MD Summer School 2024"
 workshop_dates: "July 8-12, 2024"
 application_deadline: "April 24, 2024"
 decision_on_application: "May 8, 2024"
@@ -21,7 +21,7 @@ Description: Molecular dynamics (MD) simulation techniques have become an essent
 **Expected number of participants:** 40
 
 **Tranportation:**
- * Nearest Airport: Boise, IDD; Uber/Lyft transportation to the University (5 minutes)
+ * Nearest Airport: Boise, BOI; Uber/Lyft transportation to the University (5 minutes)
 
 **Equipment Needed:** Students will need a laptop.
 
