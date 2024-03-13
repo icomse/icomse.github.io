@@ -1,6 +1,6 @@
 ---
 date: 2024-01-12T11:14:48-04:00
-when: "10 Oct 2022"
+when: "8 Mar 2024"
 featured_image: "/images/boisestate-stackedlogo-2color-rgb.jpg"
 background: "false"
 menu: "true"
