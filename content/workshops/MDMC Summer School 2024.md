@@ -6,7 +6,7 @@ workshop_dates: "July 8-12, 2024"
 application_deadline: "April 24, 2024"
 decision_on_application: "May 8, 2024"
 location: "Boise State University, Boise, ID"
-applications: "Open"
+registration: "Open"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["active-workshops"]
 ---
@@ -14,7 +14,7 @@ Description: Molecular dynamics (MD) simulation techniques have become an essent
 
 **Eligibility:** graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty, and relevant industry. [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSesJ3zDBRbfYO_Sl7GXFlPP1ZW_26_xmtV7zyi86bgiFjlqWw/viewform)
 
-**Registration Fee:** $150 (waived for participants from non-PhD granting institutes)
+**Registration Fee:** $150 (waived for participants from non-PhD granting institutes) after application.
 
 **Financial Aid:** Financial support is available to cover housing (in university dormitory), meals, and parking cost for all non-local participants. A limited number of travel stipends ($500) are available to help broaden participation.
 
