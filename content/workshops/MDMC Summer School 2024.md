@@ -32,5 +32,5 @@ Description: Molecular dynamics (MD) simulation techniques have become an essent
  - Jindal Shah, Oklahoma State University
  - Michael Shirts, University of Colorado Boulder
  - Amir Haji-Akbari, Yale University
- - Rachael Skye, Cornell University (Dshemuchadze lab)
+ - Rachael Skye, Cornell University (Dshemuchadse lab)
  - Hemanth Haridas, University of Utah (Clark Lab) 
