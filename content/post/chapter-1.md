@@ -4,7 +4,7 @@ when: "8 Mar 2024"
 featured_image: "/images/boisestate-stackedlogo-2color-rgb.jpg"
 background: "false"
 menu: "true"
-title: "Applications are open for MC/MD Summer school"
+title: "Applications are open for Molecular Dynamics Summer school"
 ---
 {{< img src="boisestate-stackedlogo-2color-rgb.jpg" title="Institute of Computational Molecular Science Education" >}}
 
