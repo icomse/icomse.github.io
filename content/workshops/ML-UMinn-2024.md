@@ -14,7 +14,7 @@ categories: ["active-workshops"]
 **Description:** This workshop will provide an overview of machine learning tools applied to study molecular systems with a focus on computational molecular science. It will feature a mix of lectures and hands-on exercises running machine learning algorithms with molecular simulations on national supercomputing resources. The workshop will include a session on diversity, equity, and inclusion aspects of computational sciences. Sessions will be taught in Software Carpentry style, with approximately equal time divided between lectures and hands-on programming exercises.
 
 **Registration:**
-The application for the workshop [can be accessed here](https://forms.gle/T4UPibVrzpouGKVQ6)
+The application for the workshop [can be accessed here](https://forms.gle/T4UPibVrzpouGKVQ6).
 
 <!--
 **Preliminary Schedule:**
