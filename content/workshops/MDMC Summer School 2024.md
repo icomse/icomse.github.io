@@ -1,7 +1,7 @@
 ---
 date: 2024-01-23T11:25:05-04:00
 featured_image: "boisestate-stackedlogo-2color-rgb.jpg"
-title: ""The 8th i-CoMSE Workshop: Molecular Dynamics Summer School 2024"
+title: "The 8th i-CoMSE Workshop: Molecular Dynamics Summer School 2024"
 workshop_dates: "July 8-12, 2024"
 application_deadline: "April 24, 2024"
 decision_on_application: "May 8, 2024"
