@@ -6,7 +6,7 @@ workshop_dates: "July 8-12, 2024"
 application_deadline: "April 24, 2024"
 decision_on_application: "May 8, 2024"
 location: "Boise State University, Boise, ID"
-registration: "Open"
+registration: "Pending"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["active-workshops"]
 ---
