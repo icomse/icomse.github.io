@@ -6,7 +6,7 @@ background: "false"
 menu: "true"
 title: "Applications are open for the Machine Learning for Molecular Science Summer Workshop School"
 ---
-{{< img src="boisestate-stackedlogo-2color-rgb.jpg" title="Institute of Computational Molecular Science Education" >}}
+{{< img src="University-of-Minnesota-Logo.png" title="Institute of Computational Molecular Science Education" >}}
 
 Applications are now open for the Machine Learning for Molecular Sciences Workshop at the University of Minnesota Twin Cities.  This 
 workshop will provide an overview of machine learning tools applied to study molecular systems with a focus on computational molecular 
