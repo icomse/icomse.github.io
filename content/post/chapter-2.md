@@ -1,7 +1,7 @@
 ---
 date: 2024-04-22T11:14:48-04:00
 when: "26 Apri 2024"
-featured_image: "/images/boisestate-stackedlogo-2color-rgb.jpg"
+featured_image: "/images/University-of-Minnesota-Logo.png"
 background: "false"
 menu: "true"
 title: "Applications are open for the Machine Learning for Molecular Science Summer Workshop School"
