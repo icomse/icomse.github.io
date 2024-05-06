@@ -54,7 +54,7 @@ exercises will be provided in Bridges-2 at PSC.
 
 **Registration Fee:** The registration fee will be waived for participants from non-PhD-granting and primary undergraduate institutions (PUIs).
 
-**Financial Support:**  Financial support is available to cover housing (in university dormitory) for all non-local participants. A limited number of travel stipends (up to $500) are available to help broaden participation.
+**Financial Support:**  Financial support available to cover housing (in university dormitory) for some non-local participants. A limited number of travel stipends (up to $500) are available to help broaden participation.
 
 **Organizers/Instructors:**
 - Yamil Colón, Notre Dame University
@@ -63,3 +63,4 @@ exercises will be provided in Bridges-2 at PSC.
 - Sapna Sarupria, University of Minnesota Twin Cities
 - Jindal Shah, Oklahoma State University
 - Michael Shirts, University of Colorado, Boulder
+- Shuwen Yue, Cornell University
