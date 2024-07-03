@@ -10,7 +10,7 @@ categories: ["Executive Committee"]
 contact_info: "neeraj@i-comse.org"
 ---
 
-Associate Professor & Ergon, Inc.\
+Professor & Ergon, Inc.\
 Distinguished Professor\
 Dave C. Swalm School of Chemical Engineering
 
