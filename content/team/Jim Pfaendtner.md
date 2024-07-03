@@ -4,14 +4,14 @@ featured_image: "jim-pfaendtner.png"
 title: "Pfaendtner, Jim"
 first_name: "Jim"
 last_name: "Pfaendtner"
-universities: "University of Washington"
+universities: "North Carolina State University"
 #roles: "Advisory Board"
 categories: [ "Advisory Board" ]
-contact_info: "jpfaendt@u.washington.edu"
+contact_info: "wjpfaend@ncsu.edu"
 ---
 
-Steven and Connie Rogel Endowed Professor\
-Chemical Engineering Department Chair\
+Louis Martin-Vega Dean\
+College of Engineering\
 Department of Chemical Engineering
 
 
