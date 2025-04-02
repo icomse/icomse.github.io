@@ -8,7 +8,7 @@ decision_on_application: "May 8, 2024"
 location: "Boise State University, Boise, ID"
 registration: "Open"
 funding: "This workshop is supported by funding from National Science Foundation"
-categories: ["active-workshops"]
+categories: ["past-workshops"]
 ---
 Description: Molecular dynamics (MD) simulation techniques have become an essential tools in understanding thermophysical and equilibrium properties of systems ranging from organic liquids to ionic liquids, polymers, biomolecules, solutions, zeolites, metal organic frameworks and covalent organic frameworks, etc. This course will focus on the theoretical underpinnings of MD simulations, statistical mechanics principles, and practical tools and techniques for setting up and computing macroscopic properties. Open-source MD engines including GROMACS and HOOMD will be used to demonstrate fundamental concepts. 
 
