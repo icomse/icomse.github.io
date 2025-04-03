@@ -8,7 +8,7 @@ decision_on_application: "TBA"
 location: "Mississippi State Universiy, Starkville, MS"
 registration: "Open Soon"
 funding: "This workshop is supported by funding from National Science Foundation"
-categories: ["upcoming-workshops"]
+categories: ["future-workshops"]
 ---
 Description: This workshop will provide an overview of mesoscale particle-based modeling techniques, 
 including coarse-grained interactions, molecular  dynamics, Brownian dynamics, and multiparticle collision dynamics. 
