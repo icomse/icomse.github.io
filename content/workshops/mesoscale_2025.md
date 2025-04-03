@@ -24,8 +24,6 @@ hands-on exercises (roughly 50% each) using HOOMD-blue on national  supercomputi
 
 **Expected number of participants:** 40
 
-**Tranportation:**
-
 **Equipment Needed:** Students are encouraged to bring their laptop.
 
 **Organizers/Instructors**
