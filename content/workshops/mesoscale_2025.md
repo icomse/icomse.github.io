@@ -28,9 +28,10 @@ hands-on exercises (roughly 50% each) using HOOMD-blue on national  supercomputi
 
 **Organizers/Instructors**
  - Eric Jankowski, Boise State University
- - Kwangho Nam, University of Texas at Arlington
+ - Michael Howard, Auburn University
+ - Jeremy Palmer, University of Houston
  - Neeraj Rai, Mississippi State University
  - Sapna Sarupria, University of Minnesota
  - Jindal Shah, Oklahoma State University
  - Michael Shirts, University of Colorado Boulder
- - Phanish Suryanarayana, Georgia institute of Technology
+ - Antonia Statt, University of Illinois Urbana-Champaign
