@@ -1,7 +1,7 @@
 ---
 date: 2024-04-20T11:25:05-04:00
 featured_image: "icomse_logo_with_picture.png"
-title: "9th iCoMSE workshop: Virtual School on Machine Learning For Molecules 2025"
+title: "9th i-CoMSE workshop: Virtual School on Machine Learning For Molecules 2025"
 workshop_dates: "April 28-May 2, 2025"
 location: "Online"
 application_deadline: "All registered students admitted"
