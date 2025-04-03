@@ -39,9 +39,9 @@ The application for the workshop is at: https://forms.gle/42Vzmw13F9HtJfaNA. Dea
 **Organizers/Instructors**
 - Camille Bilodeau, University of Virginia
 - Yamil Colon, University of Notre Dame
-- Shuwen Yue, Cornell University
 - Eric Jankowski, Boise State University
 - Neeraj Rai, Mississippi State University
 - Sapna Sarupria, University of Minnesota 
 - Jindal Shah, Oklahoma State University
 - Michael Shirts, University of Colorado Boulder
+- Shuwen Yue, Cornell University
