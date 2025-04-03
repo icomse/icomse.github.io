@@ -1,16 +1,20 @@
 ---
 date: 2022-04-02T11:25:05-04:00
-featured_image: "osu.jpg"
-title: "10th i-CoMSE Workshop: QM/MM and ab initio Molecular Dynamics"
-workshop_dates: "June 23-27, 2025"
-application_deadline: "May 1, 2025"
-decision_on_application: "May 15, 2025"
-location: "Oklahoma State Universiy, Stillwater, OK"
+featured_image: "msu.jpg"
+title: "10th i-CoMSE Workshop: Mesoscale Particle-Based Modeling"
+workshop_dates: "July 21-25, 2025"
+application_deadline: "TBA"
+decision_on_application: "TBA"
+location: "Mississippi State Universiy, Starkville, MS"
 registration: "Open Soon"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["upcoming-workshops"]
 ---
-Description: This workshop will focus on QM/MM and ab initio Molecular Dynamics.
+Description: This workshop will provide an overview of mesoscale particle-based modeling techniques, 
+including coarse-grained interactions, molecular  dynamics, Brownian dynamics, and multiparticle collision dynamics. 
+A session on good citizenship in the computational-science community, including reproducibility, data sharing, and 
+interacting with open-source  software, will also be facilitated. The workshop will feature a mix of lectures and 
+hands-on exercises (roughly 50% each) using HOOMD-blue on national  supercomputing resources.
 
 **Eligibility:** graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty
 
@@ -21,8 +25,6 @@ Description: This workshop will focus on QM/MM and ab initio Molecular Dynamics.
 **Expected number of participants:** 40
 
 **Tranportation:**
- * Nearest Airport: Stillwater, OK; Uber/Lyft transportation to the University (5 minutes)
- * Alternate Airports: Oklahoma City, 75 miles, ~1 hr 15 mins, Tulsa, 75 miles, ~1 hr 15 mins
 
 **Equipment Needed:** Students are encouraged to bring their laptop.
 
