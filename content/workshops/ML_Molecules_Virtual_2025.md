@@ -14,7 +14,7 @@ categories: ["active-workshops"]
 **Description**: This workshop will provide an overview of machine learning applied to molecules and materials systems. It will feature of mix of lectures and hands-on interactive exercises in Python. The session will run for five days, 3 hours a day, 3-6 EDT / 2-5 CDT / 1-4 MDT / 12-3 PDT.
 
 **Registration**:
-The application for the workshop is at: https://forms.gle/42Vzmw13F9HtJfaNA. Deadline for registration April 21, 2025.
+The registration form for the workshop is at: https://forms.gle/42Vzmw13F9HtJfaNA. Deadline for registration April 21, 2025.
 
 **Preliminary Schedule**
 - Monday, April 28th
@@ -26,7 +26,7 @@ The application for the workshop is at: https://forms.gle/42Vzmw13F9HtJfaNA. Dea
 - Thursday, May 1st
   - Active Learning for molecular design
 - Friday, May 2nd
-  - Generative modeling form olecules
+  - Generative modeling for molecules
 
 **Eligibility:** Graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty. The expectation is that students will have some experience in Python and ML.
 
