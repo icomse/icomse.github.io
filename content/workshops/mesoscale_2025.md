@@ -1,7 +1,7 @@
 ---
 date: 2022-04-02T11:25:05-04:00
 featured_image: "msstate.jpg"
-title: "10th i-CoMSE Workshop: Mesoscale Particle-Based Modeling"
+title: "11th i-CoMSE Workshop: Mesoscale Particle-Based Modeling"
 workshop_dates: "July 21-25, 2025"
 application_deadline: "TBA"
 decision_on_application: "TBA"
