@@ -9,13 +9,14 @@ location: "Mississippi State Universiy, Starkville, MS"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
 ---
-**Application for Participation**: https://forms.gle/CHNNXTSdZwecT1N98
 
 **Description**: This workshop will provide an overview of mesoscale particle-based modeling techniques, 
 including coarse-grained interactions, molecular  dynamics, Brownian dynamics, and multiparticle collision dynamics. 
 A session on good citizenship in the computational-science community, including reproducibility, data sharing, and 
 interacting with open-source  software, will also be facilitated. The workshop will feature a mix of lectures and 
 hands-on exercises (roughly 50% each) using HOOMD-blue on national  supercomputing resources.
+
+**Application Form**: https://forms.gle/CHNNXTSdZwecT1N98
 
 **Eligibility:** graduate student, undergraduate student (with junior or senior standing), postdoctoral, early career faculty
 
