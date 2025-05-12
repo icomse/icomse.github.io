@@ -9,6 +9,7 @@ location: "Mississippi State Universiy, Starkville, MS"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
 ---
+
 **Application for Participation**: https://forms.gle/CHNNXTSdZwecT1N98
 
 **Description**: This workshop will provide an overview of mesoscale particle-based modeling techniques, 
