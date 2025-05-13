@@ -10,7 +10,8 @@ funding: "This workshop is supported by funding from National Science Foundation
 categories: ["active-workshops"]
 ---
 
-**Application for Participation**: https://forms.gle/CHNNXTSdZwecT1N98
+**Application for Participation**: [https://forms.gle/CHNNXTSdZwecT1N98](https://forms.gle/ohMdc5AADGwGEbDr5)
+
 
 **Description**: This workshop will provide an overview of mesoscale particle-based modeling techniques, 
 including coarse-grained interactions, molecular  dynamics, Brownian dynamics, and multiparticle collision dynamics. 
