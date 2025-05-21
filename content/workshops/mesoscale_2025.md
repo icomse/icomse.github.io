@@ -3,8 +3,8 @@ date: 2022-04-02T11:25:05-04:00
 featured_image: "msstate.jpg"
 title: "11th i-CoMSE Workshop: Mesoscale Particle-Based Modeling"
 workshop_dates: "July 21-25, 2025"
-application_deadline: "May 22, 2025"
-decision_on_application: "May 25, 2025"
+application_deadline: "May 30, 2025"
+decision_on_application: "June 5, 2025"
 location: "Mississippi State Universiy, Starkville, MS"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
 categories: ["active-workshops"]
