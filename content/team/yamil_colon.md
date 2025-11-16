@@ -1,6 +1,6 @@
 ---
 date: 2026-011-18T11:25:05-04:00
-featured_image: "dsdf.jpg"
+featured_image: "colon.jpg"
 title: "Colón, Yamil"
 first_name: "Yamil"
 last_name: "Colón"
