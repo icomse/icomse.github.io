@@ -1,6 +1,6 @@
 ---
 date: 2026-011-18T11:25:05-04:00
-featured_image: "statt.jpg"
+featured_image: "statt.jpeg"
 title: "Statt, Antonia"
 first_name: "Antonia"
 last_name: "Statt"
