@@ -1,6 +1,6 @@
 ---
 date: 2026-011-18T11:25:05-04:00
-featured_image: ""
+featured_image: "dsdf.jpg"
 title: "Colón, Yamil"
 first_name: "Yamil"
 last_name: "Colón"
@@ -10,5 +10,5 @@ categories: [ "Instructors" ]
 contact_info: "ycolon@nd.edu"
 ---
 
-Assistant Professor\
-Department of Chemistry
+Associate Professor\
+Department of Chemical and Biomolecular Engineering
