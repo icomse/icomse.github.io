@@ -1,0 +1,14 @@
+---
+date: 2026-011-18T11:25:05-04:00
+featured_image: "Bilodeau.jpg"
+title: "Bilodeau, Camille"
+first_name: "Camille"
+last_name: "Bilodeau"
+universities: "University of Virginia"
+roles: "Instructor, 9th i-CoMSE Workshop (Virtual): Machine Learning for Molecules"
+categories: [ "Instructors" ]
+contact_info: "cur5wz@virginia.edu"
+---
+
+Assistant Professor\
+Department of Chemical Engineering
