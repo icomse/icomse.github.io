@@ -7,7 +7,6 @@ last_name: "Medford"
 universities: "Georgia Institute of Technology"
 roles: "DFT Summer School 2022"
 categories: [ "Instructors" ]
-contact_info: "ajm@gatech.edu"
 ---
 
 Assistant Professor\
