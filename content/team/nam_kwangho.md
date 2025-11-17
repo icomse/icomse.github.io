@@ -1,6 +1,6 @@
 ---
 date: 2026-011-18T11:25:05-04:00
-featured_image: "kwangho_nam.jpg"
+featured_image: "kwangho-nam.jpg"
 title: "Nam, Kwangho"
 first_name: "Kwangho"
 last_name: "Nam"
