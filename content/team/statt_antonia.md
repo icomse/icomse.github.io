@@ -7,7 +7,6 @@ last_name: "Statt"
 universities: "University of Illinois Urbana-Champaign"
 roles: "Instructor, 11th i-CoMSE Workshop: Mesoscale Modeling"
 categories: [ "Instructors" ]
-contact_info: "statt@illinois.edu"
 ---
 
 Assistant Professor\
