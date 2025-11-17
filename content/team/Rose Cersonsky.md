@@ -7,7 +7,6 @@ last_name: "Cersonsky"
 universities: "University of Wisconsin - Madison"
 roles: "Instructor, 5th i-CoMSE Workshop (U. Minnesota, 2023)"
 categories: [ "Instructors" ]
-contact_info: "rose.cersonsky@wisc.edu"
 ---
 
 Assistant Professor\
