@@ -1,6 +1,6 @@
 ---
 date: 2026-011-18T11:25:05-04:00
-featured_image: "howard.jpg"
+featured_image: "howard-michael.jpg"
 title: "Howard, Michael"
 first_name: "Michael"
 last_name: "Howard"
