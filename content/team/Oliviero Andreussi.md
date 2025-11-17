@@ -7,7 +7,6 @@ last_name: "Andreussi"
 universities: "Boise State University"
 roles: "Instructor, 4th i-CoMSE Workshop (Boise State, 2023)"
 categories: [ "Instructors" ]
-contact_info: "olivieroandreuss@boisestate.edu"
 ---
 
 Associate Professor\
