@@ -7,7 +7,6 @@ last_name: "Yue"
 universities: "Cornell University"
 roles: "Instructor, 9th i-CoMSE Workshop (Virtual): Machine Learning for Molecules, 8th i-CoMSE Workshop: Machine Learning for Molecules"
 categories: [ "Instructors" ]
-contact_info: "shuwen.yue@cornell.edu"
 ---
 
 Assistant Professor\

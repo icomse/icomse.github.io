@@ -7,7 +7,6 @@ last_name: "Janik"
 universities: "The Pennsylvania State University"
 roles: "DFT Summer School 2022"
 categories: [ "Instructors" ]
-contact_info: "mjj13@psu.edu"
 ---
 
 Professor\

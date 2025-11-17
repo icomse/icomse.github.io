@@ -7,7 +7,6 @@ last_name: "Bartel"
 universities: "University of Minnesota - Twin Cities"
 roles: "Instructor, 5th i-CoMSE Workshop (U. Minnesota, 2023)"
 categories: [ "Instructors" ]
-contact_info: "cbartel@umn.edu"
 ---
 
 Assistant Professor\
