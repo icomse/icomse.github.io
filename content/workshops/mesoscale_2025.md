@@ -7,7 +7,7 @@ application_deadline: "May 30, 2025"
 decision_on_application: "June 5, 2025"
 location: "Mississippi State Universiy, Starkville, MS"
 funding: "This workshop is supported by funding from National Science Foundation Office of Advanced Cyberinfrastructure"
-categories: ["active-workshops"]
+categories: ["past-workshops"]
 ---
 
 **Application for Participation**: [https://forms.gle/CHNNXTSdZwecT1N98](https://forms.gle/ohMdc5AADGwGEbDr5)

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-20T11:25:05-04:00
-featured_image: "boulder_flatirons.jpg"
+featured_image: "boulder_flatirons.png"
 title: "12th i-CoMSE Workshop: Biomolecular Molecular Dynamics and Modeling"
 workshop_dates: "July 13-17, 2026"
 application_deadline: "May 8, 2026"
