@@ -6,13 +6,13 @@ workshop_dates: "July 13-17, 2026"
 application_deadline: "May 8, 2026"
 decision_on_application: "May 12, 2026"
 location: "University of Colorado Boulder, Boulder, CO"
-registration: "Open after applications colleceted"
+registration: "May 22nd, 2026 (Open after registration collected)"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["active-workshops"]
 ---
 **Description**: Topics cover a review of molecular mechanics and best-practices based training for setting up biomolecular simulations, calculating chemical potentials, solvation free energies, relative and absolute binding free energies of drug molecules to proteins, and enhanced sampling techniques for biomolecules. It will feature a mix of lectures covering theoretical and technical aspects and hands-on exercises setting up, running, and analyzing simulations. Participants will receive training on using national supercomputing resources. The workshop is also intended to provide opportunities to participants in building a professional network. Sessions will be taught in Software Carpentry style, with approximately equal time divided between lectures and hands-on exercises.
 
-**Application Form**: https://forms.gle/CHNNXTSdZwecT1N98
+**Application Form**: [https://forms.gle/CHNNXTSdZwecT1N98](https://forms.gle/69pyzPHkMSZJegkp8)
 
 **Target Audience**: The target participant groups include, graduate students, undergraduate students (with junior or senior standing), postdoctoral, early-career faculty, with some experience in molecular simulations and Python scripting. Participation from industry, national labs, and international institutions is also welcome.  
 
