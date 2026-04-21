@@ -1,7 +1,7 @@
 ---
 date: 2026-04-12T11:14:48-04:00
 when: "21 April 2026"
-featured_image: "/images/boulder_flatirons.png"
+featured_image: "/images/boulder_view.jpg"
 background: "false"
 menu: "true"
 title: "Applications are open for the Biomolecular Modeling Summer Workshop"
