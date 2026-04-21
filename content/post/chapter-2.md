@@ -1,7 +1,7 @@
 ---
 date: 2024-04-22T11:14:48-04:00
 when: "12 May 2025"
-featured_image: "/images/msstate.jpg"
+featured_image: "/images/msstatea.jpg"
 background: "false"
 menu: "true"
 title: "Applications are open for the Mesoscale Modeling Summer Workshop"
