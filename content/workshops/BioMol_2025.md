@@ -6,7 +6,7 @@ workshop_dates: "July 13-17, 2026"
 application_deadline: "May 8, 2026"
 decision_on_application: "May 12, 2026"
 location: "University of Colorado Boulder, Boulder, CO"
-registration: "May 22nd, 2026 (Open after applications collected)"
+registration: "May 22, 2026 (Open after applications collected)"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["active-workshops"]
 ---
