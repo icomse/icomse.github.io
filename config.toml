@@ -4,7 +4,7 @@ title = 'i-CoMSE'
 theme = "ananke"
 summaryLength = 65
 publishDir = "docs"
-paginate = 3
+paginate = 2
 
 [taxonomies]
   team = "teammembers"
