@@ -16,7 +16,7 @@ categories: ["active-workshops"]
 
 **Target Audience**: The target participant groups include, graduate students, undergraduate students (with junior or senior standing), postdoctoral, early-career faculty, with some experience in molecular simulations and Python scripting. Participation from industry, national labs, and international institutions is also welcome.  
 
-**Registration Fee**: The registration is subsidized by a grant from the National Science Foundation is $100 for double occupancy dorm housing, and $325 for single occupancy dorm housing.   Registration covers all instruction, breakfast, lunch and snacks Monday through Friday morning, and lodging Saturday night through Thursday night.  Financial support is limited to applicants associated with US-based educational institutions.
+**Registration Fee**: The registration is subsidized by a grant from the National Science Foundation is $100 for double occupancy dorm housing, and $325 for single occupancy dorm housing.   Registration covers all instruction, breakfast, lunch and snacks (not dinners) Monday through Friday morning, and lodging Saturday night through Thursday night.  Financial support is limited to applicants associated with US-based educational institutions.
 
 **Equipment Needed**: Students will need a laptop, and have Jupyter notebooks installed. Computing resources for performing exercises will be provided in Bridges-2 at PSC.
 
