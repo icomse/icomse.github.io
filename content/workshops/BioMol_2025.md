@@ -23,7 +23,7 @@ categories: ["active-workshops"]
 **Expected number of participants:** 50
 
 **Tranportation:**
- * Nearest Airport: Denver, CO; Uber/Lyft/Bus transportation to the University (~1 hour)
+ * Nearest Airport: Denver International Airport; Uber/Lyft/Bus transportation to the University (~1 hour)
 
 **Organizers/Instructors**
  - Michael Shirts (instructor), University of Colorado Boulder
