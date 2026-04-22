@@ -10,7 +10,7 @@ registration: "May 22, 2026 (Open after applications collected)"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["active-workshops"]
 ---
-**Description**: Topics cover a review of molecular mechanics and best-practices based training for setting up biomolecular simulations, calculating chemical potentials, solvation free energies, relative and absolute binding free energies of drug molecules to proteins, and enhanced sampling techniques for biomolecules. It will feature a mix of lectures covering theoretical and technical aspects and hands-on exercises setting up, running, and analyzing simulations. Participants will receive training on using national supercomputing resources. The workshop is also intended to provide opportunities to participants in building a professional network. Sessions will be taught in Software Carpentry style, with approximately equal time divided between lectures and hands-on exercises.
+**Description**: Topics cover a review of molecular mechanics, best-practices based training for setting up biomolecular simulations, calculating chemical potentials, solvation free energies, relative and absolute binding free energies of drug molecules to proteins, and enhanced sampling techniques for biomolecules. It will feature a mix of lectures covering theoretical and technical aspects as well as hands-on exercises in setting up, running, and analyzing simulations. Participants will receive training on using national supercomputing resources. The workshop is also intended to provide opportunities to participants in building a professional network. 
 
 **Application Form**: [https://forms.gle/CHNNXTSdZwecT1N98](https://forms.gle/69pyzPHkMSZJegkp8)
 
