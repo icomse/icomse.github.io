@@ -4,7 +4,7 @@ when: "21 April 2026"
 featured_image: "/images/boulder_view.jpg"
 background: "false"
 menu: "true"
-title: "Applications are open for the Biomolecular Molecular Dynamicd and Modeling Summer Workshop"
+title: "Applications are open for the Biomolecular Molecular Dynamics and Modeling Summer Workshop"
 ---
 {{< img src="boulder_view.jpg" height="100" title="Institute of Computational Molecular Science Education" >}}
 
