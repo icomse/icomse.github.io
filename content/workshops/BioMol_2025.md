@@ -12,7 +12,7 @@ categories: ["active-workshops"]
 ---
 **Description**: Topics cover a review of molecular mechanics, best-practices based training for setting up biomolecular simulations, calculating chemical potentials, solvation free energies, relative and absolute binding free energies of drug molecules to proteins, and enhanced sampling techniques for biomolecules. It will feature a mix of lectures covering theoretical and technical aspects as well as hands-on exercises in setting up, running, and analyzing simulations. Participants will receive training on using national supercomputing resources. The workshop is also intended to provide opportunities to participants in building a professional network. 
 
-**Application Form**: [https://forms.gle/CHNNXTSdZwecT1N98](https://forms.gle/69pyzPHkMSZJegkp8)
+**Application Form**: [https://forms.gle/69pyzPHkMSZJegkp8](https://forms.gle/69pyzPHkMSZJegkp8)
 
 **Target Audience**: The target participant groups include, graduate students, undergraduate students (with junior or senior standing), postdoctoral, early-career faculty, with some experience in molecular simulations and Python scripting. Participation from industry, national labs, and international institutions is also welcome.  
 
