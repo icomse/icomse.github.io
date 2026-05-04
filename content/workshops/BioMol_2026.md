@@ -3,10 +3,10 @@ date: 2026-04-20T11:25:05-04:00
 featured_image: "boulder_view.jpg"
 title: "12th i-CoMSE Workshop: Biomolecular Molecular Dynamics and Modeling"
 workshop_dates: "July 13-17, 2026"
-application_deadline: "May 8, 2026"
-decision_on_application: "May 12, 2026"
+application_deadline: "May 15, 2026"
+decision_on_application: "May 20, 2026"
 location: "University of Colorado Boulder, Boulder, CO"
-registration: "May 22, 2026 (Open after applications collected)"
+registration: "May 29, 2026 (Open after applications collected)"
 funding: "This workshop is supported by funding from National Science Foundation"
 categories: ["active-workshops"]
 ---
